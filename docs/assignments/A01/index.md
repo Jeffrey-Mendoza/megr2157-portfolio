@@ -21,13 +21,13 @@ The language in the portfolio would meet the standard of a document that I would
 Portfolio #2- Jacob Schwartz
 
 a.  Navigability : can a reader locate any specific assignment or piece of work in under 60 seconds?
-This portfolio uses a template that separates the projects, engineering bio, and contact information. In the projects tab each project has its own page, as well for the initial start and end date of the project. Therefore, any piece of work they created and inputted into their portfolio can quickly be found and navigated to under 60 seconds.
+This portfolio uses a template that separates the projects, engineering bio, and contact information. In the projects tab each project has its own page, as well for the initial start and end date of the project. Therefore, any piece of work they created and inputted into their portfolio can quickly be found and navigated to under 60 seconds. After selecting a project of interest the general overview of the project is displayed. Although if you desire to view the complete report of the project your allowed to at the top of the projects page. Yet not all of the projects have a final report, for example the "Light Pole Photobot" doesn't, but the majority of projects displayed do consist of a final report.
 
 b.  Reproducibility : does the documentation contain enough information that a colleague could reproduce the work without asking a question?
-The documentation in the portfolio contains an immense load of information, enough to have a colleague reproduce the work without having to ask a question. This portfolio has some images to help with what the product should look like, but with the writing documentation alone it is possible to get a good imagine of what is being talked about.
+The documentation in the portfolio contains an immense load of information, enough to have a colleague reproduce the work without having to ask a question. This portfolio has some images to help with what the product should look like, but with the writing documentation alone it is possible to get a good imagine of what is being talked about. Images provided are helpful to see what the end result should look like as well they provide the dimensions of the design to replicate it. That being said, the projects the don't have a complete report of the project cannot be recreated without having to seek for assistance to create an identical design.
 
 c.  Evidence of reasoning : does the portfolio show how decisions were made, or only what the final answer was?
-This portfolio could be an exemplary of proper reasoning to decisions. After every change that was made to the design it was explained why it was changed for the better.
+This portfolio could be an exemplary of proper reasoning to decisions. In the complete report of projects every change that was made to the design throughout the process was explained why it was changed for the better. Not only that it also described what was the better alternative and the reason why it is better compared to the prior choice.
 
 d.  Professional tone : does the language meet the standard of a document you would hand to an employer?
 
