@@ -16,7 +16,22 @@ This portfolio shows how decisions were made, the portfolio made sure to explain
 
 d.  Professional tone : does the language meet the standard of a document you would hand to an employer?
 
-The language in the portfolio would meet the standard of a document that I would hand to an employer as its simple words combined with engineering terms, facilating the engineer reader to understand the documentation leading to the work being recreatable. They focused their efforts on presenting their work going straight to the point without any distractions.
+The language in the portfolio would meet the standard of a document that I would hand to an employer as its simple words combined with engineering terms, facilitating the engineer reader to understand the documentation leading to the work being recreatable. They focused their efforts on presenting their work going straight to the point without any distractions.
+
+Portfolio #2- Jacob Schwartz
+
+a.  Navigability : can a reader locate any specific assignment or piece of work in under 60 seconds?
+This portfolio uses a template that separates the projects, engineering bio, and contact information. In the projects tab each project has its own page, as well for the initial start and end date of the project. Therefore, any piece of work they created and inputted into their portfolio can quickly be found and navigated to under 60 seconds.
+
+b.  Reproducibility : does the documentation contain enough information that a colleague could reproduce the work without asking a question?
+The documentation in the portfolio contains an immense load of information, enough to have a colleague reproduce the work without having to ask a question. This portfolio has some images to help with what the product should look like, but with the writing documentation alone it is possible to get a good imagine of what is being talked about.
+
+c.  Evidence of reasoning : does the portfolio show how decisions were made, or only what the final answer was?
+This portfolio could be an exemplary of proper reasoning to decisions. After every change that was made to the design it was explained why it was changed for the better.
+
+d.  Professional tone : does the language meet the standard of a document you would hand to an employer?
+
+This portfolio is absolutely a document I would hand to an employer; it's appealing to the eye. The portfolio demonstrates that the person is very knowledgeable with the decisions made and why.
 
 
 ## Decide
