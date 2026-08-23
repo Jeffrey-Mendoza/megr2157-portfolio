@@ -16,7 +16,7 @@ This portfolio shows how decisions were made, the portfolio made sure to explain
 
 d.  Professional tone : does the language meet the standard of a document you would hand to an employer?
 
-The language in the portfolio would meet the standard of a document that I would hand to an employer as its simple words combined with engineering terms, facilitating the engineer reader to understand the documentation leading to the work being recreatable. They focused their efforts on presenting their work going straight to the point without any distractions.
+The language in the portfolio would meet the standard of a document that I would hand to an employer as its simple words combined with engineering terms, facilitating the engineer reader to understand the documentation leading to the work being recreatable. They focused their efforts on presenting their work going straight to the point without any distractions. Although it could be said that it would've been better if in their portfolio they used the word "my" less often, make some better word choices.
 
 Portfolio #2- Jacob Schwartz
 
