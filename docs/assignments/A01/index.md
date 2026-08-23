@@ -9,14 +9,14 @@ a.  Navigability : can a reader locate any specific assignment or piece of work 
 The portfolio is very well laid out; it's a simple design where readers can easily navigate their way throughout the portfolio. With on the right side of the page being hyperlinks to its designated section such as "About Me" and each of their titled engineering assignments. Therefore, readers can easily navigate to locate the "About Me" section to get familiar with the owner and their work showcased beneath the "About Me" section. 
 
 b.  Reproducibility : does the documentation contain enough information that a colleague could reproduce the work without asking a question?
-The documentation excels at explaining each step taken, it even goes further to give us the known values and what variable needed to be found. Almost all the decisions made were backed up with a reason why he chose that decision. The portfolio heavily depended on images to portray the information, because of these images it is possible that a colleague could reproduce the work without asking a question. That being said, the colleague must have knowledge and experience with SolidWorks and Autodesk Inventor to have the ability to reproduce the work without seeking help, since the documentation doesn't contain information on how to use these softwares.
+The documentation excels at explaining each step taken, it even goes further to give us the known values and what variable needed to be found. Almost all the decisions made were backed up with a reason why he chose that decision. The portfolio heavily depended on images to portray the information, because of these images it is possible that a colleague could reproduce the work without asking a question. That being said, the colleague must have knowledge and experience with SolidWorks and Autodesk Inventor to have the ability to reproduce the work without seeking help, since the documentation doesn't contain information on how to use these software's.
 
 c.  Evidence of reasoning : does the portfolio show how decisions were made, or only what the final answer was?
 This portfolio shows how decisions were made, the portfolio made sure to explain very explicitly leaving behind little to no confusion to the readers. After every decision that was made, they made sure to at least have a sentence reasoning their choice.
 
 d.  Professional tone : does the language meet the standard of a document you would hand to an employer?
 
-The language in the portfolio would meet the standard of a document that I would hand to an employer as it's simple words combined with engineering terms, facilating the engineer reader to understand the documentation leading to the work being recreatable.
+The language in the portfolio would meet the standard of a document that I would hand to an employer as its simple words combined with engineering terms, facilating the engineer reader to understand the documentation leading to the work being recreatable. They focused their efforts on presenting their work going straight to the point without any distractions.
 
 
 ## Decide
