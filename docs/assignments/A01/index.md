@@ -16,7 +16,7 @@ This portfolio shows how decisions were made, the portfolio made sure to explain
 
 d.  Professional tone : does the language meet the standard of a document you would hand to an employer?
 
-
+The language in the portfolio would meet the standard of a document that I would hand to an employer as it's simple words combined with engineering terms, facilating the engineer reader to understand the documentation leading to the work being recreatable.
 
 
 ## Decide
