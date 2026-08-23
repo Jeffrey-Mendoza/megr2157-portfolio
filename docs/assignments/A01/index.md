@@ -31,7 +31,7 @@ This portfolio could be an exemplary of proper reasoning to decisions. In the co
 
 d.  Professional tone : does the language meet the standard of a document you would hand to an employer?
 
-This portfolio is absolutely a document I would hand to an employer; it's appealing to the eye. The portfolio demonstrates that the person is very knowledgeable with the decisions made and why.
+This portfolio is absolutely a document I would hand to an employer; it's appealing to the eye. The portfolio demonstrates that the person is very knowledgeable with the decisions made and why. Furthermore, the portfolio also uses engineering concepts showcasing proper analytical skills diagnosing issues, resolving with decision making, and overall communication.
 
 
 ## Decide
