@@ -33,6 +33,23 @@ d.  Professional tone : does the language meet the standard of a document you wo
 
 This portfolio is absolutely a document I would hand to an employer; it's appealing to the eye. The portfolio demonstrates that the person is very knowledgeable with the decisions made and why. Furthermore, the portfolio also uses engineering concepts showcasing proper analytical skills diagnosing issues, resolving with decision making, and overall communication.
 
+Product Analysis-
+a.  (15%) What is the primary function of this product? State it as an engineering function : what mechanical task does it perform? State it precisely, not as a consumer description.
+
+b.  Identify the governing model : what equation or physical principle governs its primary behavior?
+
+i.  State the model and identify its variables.
+
+ii.  State one assumption that makes the model valid for this product.
+
+c.  (15%) Take photographs of each component. Under each photograph, describe precisely how the geometry of that component affects its mechanical function.
+
+d.  Using patent research, identify the patent number and author(s). Then:
+
+i.  List at least two alternative solutions or devices that solve the same primary function.
+
+ii.  Identify one design decision the original engineer made : something you can see in the patent or geometry : and explain why you think they made that choice.
+
 
 ## Decide
 
