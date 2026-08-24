@@ -33,8 +33,9 @@ d.  Professional tone : does the language meet the standard of a document you wo
 
 This portfolio is absolutely a document I would hand to an employer; it's appealing to the eye. The portfolio demonstrates that the person is very knowledgeable with the decisions made and why. Furthermore, the portfolio also uses engineering concepts showcasing proper analytical skills diagnosing issues, resolving with decision making, and overall communication.
 
-Product Analysis-
+Product Analysis- Bag clip
 a.  (15%) What is the primary function of this product? State it as an engineering function : what mechanical task does it perform? State it precisely, not as a consumer description.
+The primary function of a bag clip is to prevent air or other particles from entering the bag by providing a constant compressive clamping force onto the bag. The bag chip consists of a spring which holds one side of the clip shut at rest, but it has two handles in the opposite side to create a pinching motion with the handles to open up the jaw by using force to go against the resistance of the spring.
 
 b.  Identify the governing model : what equation or physical principle governs its primary behavior?
 
