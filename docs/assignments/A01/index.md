@@ -38,22 +38,21 @@ a.  (15%) What is the primary function of this product? State it as an engineeri
 The primary function of a bag clip is to prevent air or other particles from entering the bag by providing a constant compressive clamping force onto the bag. The bag chip consists of a spring which holds one side of the clip shut at rest, but it has two handles in the opposite side to create a pinching motion with the handles to open up the jaw by using force to go against the resistance of the spring. When there isn't any force compressing the handles, the jaw goes back to its resting position due to the spring consistently desiring to go to its natural position; this creates that compressive clamping force to seal a bag airtight.
 
 b.  Identify the governing model : what equation or physical principle governs its primary behavior?
-The equation that governs the primary behavior of a bag clip is Hooke's, potential energy, and kinetic energy.
+The equation that governs the primary behavior of a bag clip is Torsional Hooke's Law, potential energy, and rotational kinetic energy.
 
-Hooke's Law: F=kx
-F= Force required to displace spring
+Torsional Hooke's Law: T=kθ
+T= Force required to displace spring
 k= Spring constant
-x=Distance the spring has moved from resting position
+x= Angle of twist from origin
 
-Potential Energy(when spring experiences an external force): PE=(1/2)kx^2 (for springs)
-PE= Elastic potential energy
+Potential Energy (when spring experiences an external force): U=(1/2)kx^2 (for springs)
+U= Elastic potential energy
 k= Spring constant
-x= Spring displacement
+θ= Spring angle displacement
 
-Kinetic Energy(when the bag clip is in movement of either opening or closing the jaw): (1/2)kx^2=(1/2)mv^2
-Conservation of energy means energy cannot be destroyed, therefore energy transfers between potential and kinetic energy.
-m=mass
-v=velocity 
+Rotational Kinetic Energy (when the bag clip is in movement of either opening or closing the jaw): K=(1/2)Iω^2
+I= Moment of inertia
+ω= Angular velocity of handle
 
 i.  State the model and identify its variables.
  
