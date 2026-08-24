@@ -4,11 +4,11 @@ site_description: Design portfolio documentation, built with the Analyze / Decid
 theme:
   name: material
   palette:
-    primary: blue
+    primary: indigo
+    accent: cyan
   features:
     - navigation.instant
     - navigation.tracking
-<button id="theme-toggle"> Dark Mode</button>
 nav:
   - Home: index.md
   - About Me: aboutme/index.md
