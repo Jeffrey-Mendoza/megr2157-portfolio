@@ -38,12 +38,13 @@ a.  (15%) What is the primary function of this product? State it as an engineeri
 The primary function of a bag clip is to prevent air or other particles from entering the bag by providing a constant compressive clamping force onto the bag. The bag chip consists of a spring which holds one side of the clip shut at rest, but it has two handles in the opposite side to create a pinching motion with the handles to open up the jaw by using force to go against the resistance of the spring. When there isn't any force compressing the handles, the jaw goes back to its resting position due to the spring consistently desiring to go to its natural position; this creates that compressive clamping force to seal a bag airtight.
 
 b.  Identify the governing model : what equation or physical principle governs its primary behavior?
+i.  State the model and identify its variables.
 The equation that governs the primary behavior of a bag clip is Torsional Hooke's Law, potential energy, and rotational kinetic energy.
 
 Torsional Hooke's Law: T=kθ
-T= Force required to displace spring
+T= Torque required to displace spring
 k= Spring constant
-x= Angle of twist from origin
+θ= Angle of twist from origin
 
 Potential Energy (when spring experiences an external force): U=(1/2)kx^2 (for springs)
 U= Elastic potential energy
@@ -53,10 +54,9 @@ k= Spring constant
 Rotational Kinetic Energy (when the bag clip is in movement of either opening or closing the jaw): K=(1/2)Iω^2
 I= Moment of inertia
 ω= Angular velocity of handle
-
-i.  State the model and identify its variables.
  
 ii.  State one assumption that makes the model valid for this product.
+It is assumed that a spring is a proper mechanical device that is elastic, meaning it is able to flex without breaking, to clamp bags airtight due to its nature of wanting to return to it's resting postion.
 
 c.  (15%) Take photographs of each component. Under each photograph, describe precisely how the geometry of that component affects its mechanical function.
 
