@@ -72,8 +72,10 @@ ii.  Identify one design decision the original engineer made : something you can
 This portfolio contains engineering documentation of different assignments assigned throughout the course. The assignments are organized all under the assignments tab; so that the reader, a possible employer, student, or professor can navigate with ease to their intended interest by having titles for each assignment completed.
 
 2.  One Intentional Customization : Identify one element of the template : color scheme, typography, logo, or section labels : and change it deliberately. Document what you changed, what requirement your change better satisfies, and why the template default did not meet that requirement. "I preferred it" is not a requirement. State the functional reason.
+I changed a section label deliberately under "Assignments" for A1 to have the title "Create Portfolio". Throughout the course I'll be updating the section to have a title; this way it'll be quicker for the reader to navigate through the portfolio knowing what each assignment is about before even clicking on it.
 
 3.  Your Documentation Standard : The template gives you the structure. You set the standard for what goes inside it. Write one sentence that defines the quality bar you are committing to for every assignment entry this semester. This is a self-imposed professional standard. You will be held to it. A student who writes a vague commitment will produce vague documentation all semester. Write the standard you actually intend to meet.
+Throughout the semester I expect my documentation reports to improve my analysis, decision making, and engineering word choices. I intend to provide detailed reports of my assignments, so that readers can imagine what I am talking about without having to look at an imagine.
 
 ## Communicate
 
