@@ -35,9 +35,10 @@ This portfolio is absolutely a document I would hand to an employer; it's appeal
 
 Product Analysis- Bag clip
 a.  (15%) What is the primary function of this product? State it as an engineering function : what mechanical task does it perform? State it precisely, not as a consumer description.
-The primary function of a bag clip is to prevent air or other particles from entering the bag by providing a constant compressive clamping force onto the bag. The bag chip consists of a spring which holds one side of the clip shut at rest, but it has two handles in the opposite side to create a pinching motion with the handles to open up the jaw by using force to go against the resistance of the spring.
+The primary function of a bag clip is to prevent air or other particles from entering the bag by providing a constant compressive clamping force onto the bag. The bag chip consists of a spring which holds one side of the clip shut at rest, but it has two handles in the opposite side to create a pinching motion with the handles to open up the jaw by using force to go against the resistance of the spring. When there isn't any force compressing the handles, the jaw goes back to its resting position due to the spring consistently desiring to go to its natural position; this creates that compressive clamping force to seal a bag airtight.
 
 b.  Identify the governing model : what equation or physical principle governs its primary behavior?
+
 
 i.  State the model and identify its variables.
 
