@@ -106,9 +106,12 @@ About Me:
 
 My name is Jeffrey Mendoza-Amaya, I am a Mechanical Engineering undergraduate student at the University of North Carolina at Charlotte. Its versatility is one of its most important reasons why I chose this specific engineering major compared to other engineering professions. I chose engineering because of my curiosity of how mechanical devices work and how it works well with different components. For this reason, Legos is a fun way to spend time and to build. Now, being at the University of North Carolina at Charlotte and seeing I can focus on Biomedical Engineer as a concentration really intrigues me. Therefore, I'm planning to get a bachelor's in mechanical engineering with a concentration in Biomedical. I've had the ambition to do both something medical related and engineering, Biomedical satisfies both conditions perfectly. The reason why the medical field interests me is because of my father being in the medical field; I want to do My future desired optimal job would be to innovate and build prosthetics. I want to contribute to society, to help people but specifically people who has medical needs of missing a body part. I will be a happy engineer when I can make patients live a better life by giving them the ability to live to the most of their life with a prosthetic. It would be world breaking news if prosthetics could be made affordable because there are numerous individuals missing a limb. I'm sure a prosthetics would make them happy giving them the ability to overcome obstacles and giving them the feeling of having their limb back.
 
+Defending Engineering Decisions:
+
 The defending an engineering decision would mean being able to support your decision making with logical reasoning. As well strong back up evidence to convince readers would be to include related formulas, and if possible, to solve for variable of interest. This would verify the decision is a better alternative and would demonstrate the appreciate solution to the issue. Currently, I can defend simple engineering decision explaining my reasoning, but I know I have a lot to improve on. For example, my alternative solution search needs work and I would like to strongly defend my engineering decision by consistently showing calculations of the appropriate solution.
 
 
-Time Spent
+Time Spent:
+
 Roughly about 7-8 hours was spent on this assignment, analyzing portfolios, identifying a product and its mechanical formulas, and writing personal information.
 
