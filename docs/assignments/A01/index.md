@@ -83,7 +83,7 @@ Alternative Solutions:
 
 Office clips are very similar to bag clips; therefore office clips can fulfill the purpose of bag clips extremely well preventing particles from going in the bag. Another alternative solution to bag clips is rubber bands. They can seal bags, but how efficient it is depends on how much force we want the rubber band to exert on the bag. This is because the more loops we create in a rubber the greater the force will be exerted by the rubber band. For example 2 loops around a bag will have more gaps for air to pass through compared to 3 loops. 3 loops around a bag will generate greater force and fewer micro gaps for air to seek through.
 
-Patent Design decision:
+Patent Design Decision:
 
 In the design the original engineer decided to add bumps on the handles. They must've made this choice because they know to open the jaw of a bag clip and maintain it open you must apply constant compressive force to the handles. Due to the spring fighting back it could be that the handle slips from your fingers and causes the bag clip to snap close. Therefore, these bumps will prevent the handles from slipping due to a greater static friction.
 
@@ -102,7 +102,7 @@ I changed a section label deliberately under "Assignments" for A1 to have the ti
 Throughout the semester I expect my documentation reports to improve my analysis, decision making, and engineering word choices. I intend to provide detailed reports of my assignments, so that readers can imagine what I am talking about without having to look at an imagine.
 
 ## Communicate
-About Me
+About Me:
 
 My name is Jeffrey Mendoza-Amaya, I am a Mechanical Engineering undergraduate student at the University of North Carolina at Charlotte. Its versatility is one of its most important reasons why I chose this specific engineering major compared to other engineering professions. I chose engineering because of my curiosity of how mechanical devices work and how it works well with different components. For this reason, Legos is a fun way to spend time and to build. Now, being at the University of North Carolina at Charlotte and seeing I can focus on Biomedical Engineer as a concentration really intrigues me. Therefore, I'm planning to get a bachelor's in mechanical engineering with a concentration in Biomedical. I've had the ambition to do both something medical related and engineering, Biomedical satisfies both conditions perfectly. The reason why the medical field interests me is because of my father being in the medical field; I want to do My future desired optimal job would be to innovate and build prosthetics. I want to contribute to society, to help people but specifically people who has medical needs of missing a body part. I will be a happy engineer when I can make patients live a better life by giving them the ability to live to the most of their life with a prosthetic. It would be world breaking news if prosthetics could be made affordable because there are numerous individuals missing a limb. I'm sure a prosthetics would make them happy giving them the ability to overcome obstacles and giving them the feeling of having their limb back.
 
