@@ -57,11 +57,12 @@ ii.  State one assumption that makes the model valid for this product.
 It is assumed that a spring is a proper mechanical device that is elastic, meaning it is able to flex without breaking, to clamp bags airtight due to its nature of wanting to return to it's resting postion.
 
 c.  (15%) Take photographs of each component. Under each photograph, describe precisely how the geometry of that component affects its mechanical function.
-![Description of image](WIN_20260824_23_49_33_Pro.jpg)
-
 ![Description of image](WIN_20260824_23_49_44_Pro.jpg)
-
+Spring at rest, no external forces, so handles are separated creating that slim V shape.
 ![Description of image](WIN_20260824_23_49_55_Pro.jpg)
+Spring embedded towards the jaw end to create that compressive force seal due to the springs constant pressure to close.
+![Description of image](WIN_20260824_23_49_33_Pro.jpg)
+External force on the handles greater than the resistance of the spring making the jaw open and creating a V shape once again but with the opening at opposite ends.
 d.  Using patent research, identify the patent number and author(s). Then:
 
 i.  List at least two alternative solutions or devices that solve the same primary function.
