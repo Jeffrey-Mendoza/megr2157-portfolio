@@ -63,11 +63,14 @@ Spring at rest, no external forces, so handles are separated creating that slim 
 Spring embedded towards the jaw end to create that compressive force seal due to the springs constant pressure to close.
 ![Description of image](WIN_20260824_23_49_33_Pro.jpg)
 External force on the handles greater than the resistance of the spring making the jaw open and creating a V shape once again but with the opening at opposite ends.
-d.  Using patent research, identify the patent number and author(s). Then:
-
+Patent research:
+Patent Number: US D1,051,709 S
+Authors: Albert Kassin and George Lai
 i.  List at least two alternative solutions or devices that solve the same primary function.
+Office clips are very similar to bag clips; therefore office clips can fulfill the purpose of bag clips extremely well preventing particles from going in the bag. Another alternative solution to bag clips is rubber bands. They can seal bags, but how efficient it is depends on how much force we want the rubber band to exert on the bag. This is because the more loops we create in a rubber the greater the force will be exerted by the rubber band. For example 2 loops around a bag will have more gaps for air to pass through compared to 3 loops. 3 loops around a bag will generate greater force and fewer micro gaps for air to seek through.
 
 ii.  Identify one design decision the original engineer made : something you can see in the patent or geometry : and explain why you think they made that choice.
+In the design the original engineer decided to add bumps on the handles. They must've made this choice because they know to open the jaw of a bag clip and maintain it open you must apply constant compressive force to the handles. Due to the spring fighting back it could be that the handle slips from your fingers and causes the bag clip to snap close. Therefore, these bumps will prevent the handles from slipping due to a greater static friction.
 
 
 ## Decide
