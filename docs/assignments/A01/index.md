@@ -58,6 +58,10 @@ It is assumed that a spring is a proper mechanical device that is elastic, meani
 
 c.  (15%) Take photographs of each component. Under each photograph, describe precisely how the geometry of that component affects its mechanical function.
 ![Description of image](WIN_20260824_23_49_33_Pro.jpg)
+
+![Description of image](WIN_20260824_23_49_44_Pro.jpg)
+
+![Description of image](WIN_20260824_23_49_55_Pro.jpg)
 d.  Using patent research, identify the patent number and author(s). Then:
 
 i.  List at least two alternative solutions or devices that solve the same primary function.
