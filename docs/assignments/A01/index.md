@@ -82,7 +82,7 @@ Throughout the semester I expect my documentation reports to improve my analysis
 1.  Your first and last name.
 My name is Jeffrey Mendoza-Amaya 
 2.  Write a professional introduction (~300 words). Who are you as an engineer? What brought you to mechanical engineering? What kind of engineer are you becoming? This is not a biography : it is a professional statement. It should read like something you would hand to a hiring manager, not something you would post on social media.
-I am a Mechanical Engineering undergraduate student at the University of North Carolina at Charlotte.
+I am a Mechanical Engineering undergraduate student at the University of North Carolina at Charlotte. It's versatility is one of its most important reasons why I chose this specific engineering major. Now, being at the University of North Carolina at Charlotte and seeing I can focus on Biomedical Engineer as a concentration really intrigues me. Therefore, I'm planning to get a bachelor's in mechanical engineering with a concentration in Biomedical. I've had the ambition to do both something medical related and engineering, Biomedical satisfies both conditions perfectly. My future desired optimal job would be 
 3.  Answer this question directly, in a clearly labeled paragraph: "What does it mean to defend an engineering decision : and do you currently know how to do it?" Answer honestly. There is no correct answer at Week 1. This response will be revisited at the end of the semester. Students who engage with it seriously at the start will have the most to learn from the comparison.
 
 4.  How much time did you actually spend on this assignment?
