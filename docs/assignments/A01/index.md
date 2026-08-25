@@ -5,32 +5,30 @@ The goal of this assignment is to create a professional engineering portfolio si
 
 ## Analyze
 Portfolio #1- Brody Edgerton
-a.  Navigability : can a reader locate any specific assignment or piece of work in under 60 seconds?
+a.  Navigability : 
 The portfolio is very well laid out; it's a simple design where readers can easily navigate their way throughout the portfolio. With on the right side of the page being hyperlinks to its designated section such as "About Me" and each of their titled engineering assignments. Therefore, readers can easily navigate to locate the "About Me" section to get familiar with the owner and their work showcased beneath the "About Me" section. 
 
-b.  Reproducibility : does the documentation contain enough information that a colleague could reproduce the work without asking a question?
+b.  Reproducibility : 
 The documentation excels at explaining each step taken, it even goes further to give us the known values and what variable needed to be found. Almost all the decisions made were backed up with a reason why he chose that decision. The portfolio heavily depended on images to portray the information, because of these images it is possible that a colleague could reproduce the work without asking a question. That being said, the colleague must have knowledge and experience with SolidWorks and Autodesk Inventor to have the ability to reproduce the work without seeking help, since the documentation doesn't contain information on how to use these software's.
 
-c.  Evidence of reasoning : does the portfolio show how decisions were made, or only what the final answer was?
+c.  Evidence of reasoning :
 This portfolio shows how decisions were made, the portfolio made sure to explain very explicitly leaving behind little to no confusion to the readers. After every decision that was made, they made sure to at least have a sentence reasoning their choice.
 
-d.  Professional tone : does the language meet the standard of a document you would hand to an employer?
-
+d.  Professional tone :
 The language in the portfolio would meet the standard of a document that I would hand to an employer as its simple words combined with engineering terms, facilitating the engineer reader to understand the documentation leading to the work being recreatable. They focused their efforts on presenting their work going straight to the point without any distractions. Although it could be said that it would've been better if in their portfolio they used the word "my" less often, make some better word choices.
 
 Portfolio #2- Jacob Schwartz
 
-a.  Navigability : can a reader locate any specific assignment or piece of work in under 60 seconds?
+a.  Navigability :
 This portfolio uses a template that separates the projects, engineering bio, and contact information. In the projects tab each project has its own page, as well for the initial start and end date of the project. Therefore, any piece of work they created and inputted into their portfolio can quickly be found and navigated to under 60 seconds. After selecting a project of interest the general overview of the project is displayed. Although if you desire to view the complete report of the project your allowed to at the top of the projects page. Yet not all of the projects have a final report, for example the "Light Pole Photobot" doesn't, but the majority of projects displayed do consist of a final report.
 
-b.  Reproducibility : does the documentation contain enough information that a colleague could reproduce the work without asking a question?
+b.  Reproducibility :
 The documentation in the portfolio contains an immense load of information, enough to have a colleague reproduce the work without having to ask a question. This portfolio has some images to help with what the product should look like, but with the writing documentation alone it is possible to get a good imagine of what is being talked about. Images provided are helpful to see what the end result should look like as well they provide the dimensions of the design to replicate it. That being said, the projects the don't have a complete report of the project cannot be recreated without having to seek for assistance to create an identical design.
 
-c.  Evidence of reasoning : does the portfolio show how decisions were made, or only what the final answer was?
+c.  Evidence of reasoning :
 This portfolio could be an exemplary of proper reasoning to decisions. In the complete report of projects every change that was made to the design throughout the process was explained why it was changed for the better. Not only that it also described what was the better alternative and the reason why it is better compared to the prior choice.
 
-d.  Professional tone : does the language meet the standard of a document you would hand to an employer?
-
+d.  Professional tone : 
 This portfolio is absolutely a document I would hand to an employer; it's appealing to the eye. The portfolio demonstrates that the person is very knowledgeable with the decisions made and why. Furthermore, the portfolio also uses engineering concepts showcasing proper analytical skills diagnosing issues, resolving with decision making, and overall communication.
 
 Product Analysis- Bag clip
@@ -69,7 +67,7 @@ ii.  Identify one design decision the original engineer made : something you can
 
 ## Decide
 1.  Homepage Identity : Your homepage is the entry point to a professional engineering record. What does a visitor need to know immediately to understand what this portfolio contains, how it is organized, and what standard it holds itself to? Write one paragraph justifying your homepage content decisions in terms of your intended reader : not in terms of yourself. The About Me section covers who you are. The homepage covers what this portfolio is.
-This portfolio contains engineering documentation of different assignments assigned throughout the course. The assignments are organized all under the assignments tab; so that the reader, a possible employer, student, or professor can navigate with ease to their intended interest by having titles for each assignment completed.
+This portfolio contains information about me, so that the reader, a possible employer, student, or professor can learn some general information about me so they can have the feeling of knowing me. The rest of this portfolio is purely engineering documentation of different assignments assigned throughout the course. Each assignment has sub parts where my analysis, decision making, and communication skills will showcase to the readers. The assignments are organized all under the assignments tab; so that the reader, a possible employer, student, or professor can navigate with ease to the assignments. Now, by having titles for each assignment will make readers feel like no time is wasted, meaning if they see a topic that doesn't interest them, they can skip over it; they don't need to click on the subtab to see what the assignment is about and if it interests them.
 
 2.  One Intentional Customization : Identify one element of the template : color scheme, typography, logo, or section labels : and change it deliberately. Document what you changed, what requirement your change better satisfies, and why the template default did not meet that requirement. "I preferred it" is not a requirement. State the functional reason.
 I changed a section label deliberately under "Assignments" for A1 to have the title "Create Portfolio". Throughout the course I'll be updating the section to have a title; this way it'll be quicker for the reader to navigate through the portfolio knowing what each assignment is about before even clicking on it.
