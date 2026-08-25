@@ -1,3 +1,3 @@
 # Portfolio Overview
 
-This the portfolio Overview
+This portfolio contains information about me, so that the reader, a possible employer, student, or professor can learn some general information about me so they can have the feeling of knowing me. The rest of this portfolio is purely engineering documentation of different assignments assigned throughout the course. Each assignment has sub parts where my analysis, decision making, and communication skills will showcase to the readers. The assignments are organized all under the assignments tab; so that the reader, a possible employer, student, or professor can navigate with ease to the assignments. Now, by having titles for each assignment will make readers feel like no time is wasted, meaning if they see a topic that doesn't interest them, they can skip over it; they don't need to click on the subtab to see what the assignment is about and if it interests them
