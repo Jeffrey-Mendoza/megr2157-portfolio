@@ -2,6 +2,7 @@
 
 ## Objective
 For this assignment I got tasked to create and 3D model a truss with given constraints. 
+![My Image](trusscontraints.png)
 
 ## Analyze
 
