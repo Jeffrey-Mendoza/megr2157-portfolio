@@ -1,7 +1,7 @@
 # A2 – Truss Stress Analysis
 
 ## Objective
-For this assignment I got tasked to create and 3D model a truss with given constraints. 
+For this assignment I got tasked to create and 3D model a truss with the given constraints. 
 
 ![My Image](trusscontraints.png)
 
