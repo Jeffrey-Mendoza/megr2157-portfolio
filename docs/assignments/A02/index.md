@@ -10,6 +10,10 @@ I'm given that point A is a pin and point B is a roller. Also, I'm given that th
 ![My Image](WIN_20260825_23_37_29_Pro.png)
 
 Since our truss has to be light weight, I want to minimize the quantity of beams connected to the truss. Yet, I need to ensure that the truss will be able to support the load. Therefore, to maximize the strength of the truss I designed triangular geometry shape within the truss.
+
+![My Image](trussdimensions.png)
+
+![My Image](trussreactionforces.png)
 ## Analyze
 
 
