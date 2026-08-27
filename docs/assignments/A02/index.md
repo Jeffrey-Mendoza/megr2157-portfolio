@@ -9,11 +9,11 @@ I'm given that point A is a pin and point B is a roller. Also, I'm given that th
 
 ![My Image](WIN_20260825_23_37_29_Pro.png)
 
-Since our truss has to be light weight, I want to minimize the quantity of beams connected to the truss. Yet, I need to ensure that the truss will be able to support the load. Therefore, to maximize the strength of the truss I designed triangular geometry shape within the truss.
+Since our truss has to be light weight, I want to minimize the quantity of beams connected to the truss. Yet, I need to ensure that the truss will be able to support the load. Therefore, to maximize the strength of the truss I designed triangular geometry shape within the truss. 
 
 ![My Image](trussdimensions.png)
 
-This is how the truss now looks like with its given dimensions added and choice of force. The next step will be to determine the reaction forces at point A and B, before finding the forces for each member within the truss.
+This is how the truss now looks like with its given dimensions added and choice of force. The next step will be to determine the reaction forces at point A and B, before finding the forces for each member within the truss. For each force I'll draw an arrow for the direction I assume the is. If the calculation of the value, I find is negative I'll flip the arrow so that the calculation can be positive. Also, by doing this the arrow will be pointing in the correct direction whether the point is experiencing compression or tension from the beam. It is also important to keep in mind that the rotation when finding the moment about a point determines the operation sign; counterclockwise rotation gives a positive value while a clockwise rotation gives a negative value.
 
 ![My Image](trussreactionforces.png)
 
