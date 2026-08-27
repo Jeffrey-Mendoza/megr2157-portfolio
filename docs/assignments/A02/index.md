@@ -19,7 +19,7 @@ This is how the truss now looks like with its given dimensions added and choice 
 
 Therefore, I start calculating the reaction forces at point A and B, there are 3 reaction forces I need to solve for. Point A is a pin; therefore, it has two unknown reaction forces, one on the x-axis and another in the y-axis, this is because it can't move in the x direction nor the y direction. Applying the same concept at point B means there is only one unknown reaction force at this point, in the y direction. The quantity and direction of reaction forces are determined by imagining on what axis the support can't freely move; there'll be a reaction force in that same direction the support can't freely move. For example, point B has a roller which can move freely in the x direction, therefore, it must have a reaction force on the y-axis since movement on the y-axis is prevented. Ideally when finding 3 reaction forces with 2 supports it would be best to take the moment of the support with the 2 unknown reaction forces. This way the 2 unknown forces at that one support would cancel out, leaving only 1 unknown reaction force to solve for. To calculate moment the formula is the sum of Force*Distance (perpendicular to the force) for each force. By taking the moment about point A the distance is equal to 0, so the values will be 0. Therefore, I was able to calculate By, then to calculate Ax and Ay I summed up the forces in the x and y direction separately to find Ax and Ay.
 
-![My Image](trussinternalforces.png)
+![My Image](trussinternalfoces.png)
 
 ## Analyze
 
