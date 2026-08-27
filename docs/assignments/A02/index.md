@@ -21,6 +21,8 @@ Therefore, I start calculating the reaction forces at point A and B, there are 3
 
 ![My Image](trussinternalfoces.png)
 
+This section includes all the member force calculations with acknowledgment whether the point experiences compression or tension from each member. Also, since I designed the truss, I had to find the angles by using inverse tangent. Fortunately, length and height remained constant throughout the truss meaning isosceles triangles split into right triangles. equilateral triangles throughout the truss. Therefore, the angle will remain constant at the opposite ends of the isosceles triangle. For the left portion of the truss there isn't an isosceles triangle but there still are right triangles of the same length and height, so the angles can be found by comparing to the previous calculated right triangles. It was best to start by finding the forces at point A first, since there was only one unknown in the y-axis which could be calculated straight forward. After calculating point A I calculated point F since there was only 1 unknown in each the x and y direction. 
+
 ## Analyze
 
 
