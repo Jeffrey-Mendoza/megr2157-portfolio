@@ -26,7 +26,7 @@ This section includes all the member force calculations with acknowledgment whet
 
 ![My Image](beamcrosssecarea.png)
 
-Knowing the forces that act upon the members of the truss I had to find a minimum cross-sectional area that would be able to withstand the loads. Therefore, to calculate the minimum cross-sectional area required I used the stress formula (stress= Force/Area) and symbolically solved for the area to get the minimum cross-sectional area is equal to the force divided by the stress. Given I chose ASTM A36 steel, since there isn't A500 steel in SolidWorks and it's the most similar, I know the yield strength of the material thanks to this data table. https://ficientdesign.com/a36-steel-properties/ The force used in the calculation was the largest force the truss experienced on a beam. The reason the largest force was chosen is to assure that the other members can 
+Knowing the forces that act upon the members of the truss I had to find a minimum cross-sectional area that would be able to withstand the loads. Therefore, to calculate the minimum cross-sectional area required I used the stress formula (stress= Force/Area) and symbolically solved for the area to get the minimum cross-sectional area is equal to the force divided by the stress. Given I chose ASTM A36 steel, since there isn't A500 steel in SolidWorks and it's the most similar, I know the yield strength of the material thanks to this data table. https://ficientdesign.com/a36-steel-properties/ The force used in the calculation was the largest force the truss experienced on a beam. The reason the largest force was chosen is to make sure the beam with the largest force wouldn't fail.
 
 ![My Image](steelthickness.png)
 
