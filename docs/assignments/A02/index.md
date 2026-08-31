@@ -30,6 +30,8 @@ Knowing the forces that act upon the members of the truss I had to find a minimu
 
 ![My Image](steelthickness.png)
 
+Since I decided to go with a hollow rectangular tube as my beam shape because I thought about how a rectangular hollow tube could be more efficient than a solid beam. A load on a hollow tube
+
 ![My Image](weightoftruss.png)
 
 ![My Image](pincrosssecarea.png)
