@@ -35,7 +35,7 @@ Since I decided to go with a hollow rectangular tube as my beam shape because I 
 ![My Image](steelthickness.png)
 
 Therefore, due to choosing a hollow inside I had to calculate for the minimum thickness of the tube considering the cross-sectional area has to be a minimum of 315mm^2.
-I used a formula which allowed me to calculate for the area of a hollow rectangular tube; which was rearranged to solve for the thickness of the tube. The thick of the tube for the beams has to be a minimum of 3.70mm thick, but for safety I decided to go with a wall thickness of 5mm.
+I used a formula which allowed me to calculate for the area of a hollow rectangular tube; which was rearranged to solve for the thickness of the tube. The thick of the tube for the beams has to be a minimum of 3.70mm thick, but for safety I decided to go with a wall thickness of 5mm. The total dimensions I chose is 20mm(width)x 30mm(height) with a 5mm wall thickness. So, the empty space inside the tube is 20mm x 10mm. 
 
 ![My Image](weightoftruss.png)
 
