@@ -30,9 +30,12 @@ Knowing the forces that act upon the members of the truss I had to find a minimu
 
 ![My Image](stiffness.png)
 
+Since I decided to go with a hollow rectangular tube as my beam shape because I thought about how a rectangular hollow tube could be more efficient than a solid beam. A load on a hollow tube can be distributed along the length of the beam whereas a solid beam would feel the load at that specific spot. So, to prove this I calculated the area moment of inertia for both the solid and hollow rectangular tube to determine the stiffness. In the calculations it was found that the solid is more prone to bending/snapping.
+
 ![My Image](steelthickness.png)
 
-Since I decided to go with a hollow rectangular tube as my beam shape because I thought about how a rectangular hollow tube could be more efficient than a solid beam. A load on a hollow tube
+Therefore, due to choosing a hollow inside I had to calculate for the minimum thickness of the tube considering the cross-sectional area has to be a minimum of 315mm^2.
+I used a formula which allowed me to calculate for the area of a hollow rectangular tube; which was rearranged to solve for the thickness of the tube. The thick of the tube for the beams has to be a minimum of 3.70mm thick, but for safety I decided to go with a wall thickness of 5mm.
 
 ![My Image](weightoftruss.png)
 
