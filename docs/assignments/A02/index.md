@@ -1,6 +1,7 @@
 # A2 – Truss Stress Analysis
 
 ## Objective
+## Analyze
 For this assignment I got tasked to create and 3D model a truss with the given constraints. 
 
 ![My Image](trusscontraints.png)
@@ -33,12 +34,6 @@ This section includes all the member force calculations with acknowledgment whet
 
 ![My Image](weightofpins.png)
 
-
-
-
-
-
-## Analyze
 
 
 ## Decide
