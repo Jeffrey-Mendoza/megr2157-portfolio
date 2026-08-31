@@ -28,6 +28,8 @@ This section includes all the member force calculations with acknowledgment whet
 
 Knowing the forces that act upon the members of the truss I had to find a minimum cross-sectional area that would be able to withstand the loads. Therefore, to calculate the minimum cross-sectional area required I used the stress formula (stress= Force/Area) and symbolically solved for the area to get the minimum cross-sectional area is equal to the force divided by the stress. Given I chose ASTM A36 steel, since there isn't A500 steel in SolidWorks and it's the most similar, I know the yield strength of the material thanks to this data table. https://ficientdesign.com/a36-steel-properties/ The force used in the calculation was the largest force the truss experienced on a beam. The reason the largest force was chosen is to make sure the beam with the largest force wouldn't fail under the load; as well to make sure that each beam has the same cross-sectional area. Therefore, knowing my stress and forces allows me to calculate the minimum cross-sectional area for the beams. This calculates to a minimum of 90mm^2, but since there is a safety factor of 3.5 the new minimal cross-sectional area is 315mm^2.
 
+![My Image](stiffness.png)
+
 ![My Image](steelthickness.png)
 
 Since I decided to go with a hollow rectangular tube as my beam shape because I thought about how a rectangular hollow tube could be more efficient than a solid beam. A load on a hollow tube
