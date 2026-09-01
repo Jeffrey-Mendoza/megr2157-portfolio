@@ -53,9 +53,9 @@ Finding the weight of the pins was a similar process to find the weight of the t
 
 ![My Image](truss1stextude.png)
 
-![My Image](innertrussextrude.png)
-
 ![My Image](centertruss.png)
+
+![My Image](innertrussextrude.png)
 
 ![My Image](finishedtrusswopin.png)
 
