@@ -72,12 +72,18 @@ After extruding the 3 beams 20mm (width) the truss was completed. This is the tr
 
 ![My Image](shellhollow.png)
 
-One last step to fully complete the truss was to add the empty space inside as originally calculated. To successfully do this I used the shell feature to create a hollow inside. The only thing that was necessary to input into the feature was the desired thickness of the wall, which for me is 5mm. Afterwards, to verify that the empty space was successfully created I went to the section view feature; under the header section 1 I selected right plane so that my truss could be cut from the right side so the inside of the truss can be viewed.
+One last step to fully complete the truss was to add the empty space inside as originally calculated. To successfully do this I used the shell feature to create a hollow inside. The only thing that was necessary to input into the feature was the desired thickness of the wall, which for me is 5mm. Afterwards, to verify that the empty space was successfully created I went to the section view feature; under the header section 1 I selected right plane so that my truss could be cut from the right side so the inside of the truss can be viewed. I also had created holes where the flanged welded stud would be located.
 ![My Image](Screenshot 2026-08-30 160920.png)
+
+For the flanged welded stud, I simply made two circles, one diameter 9.89mm (the minimum pin diameter) and the other 15mm acting as a washer. Then the outer circle was extruded to 2mm, while the stud was extruded to 8mm to make sure it passes through the thickness of one side of the wall.
 
 ![My Image](Finishedweldedstud.png)
 
+This is the finished product of the flanged welded stud with a fillet to create smoother edge.
+
 ![My Image](Finishedtrusswpin.png)
+
+At this point my truss is set with the welded studs to hold the joints together. I had gone into assembly to add both the files of the truss and the pin (stud) and put the pins on the truss, in its designated pin hole that was created, using mate feature. I had to add the file of the pin 6 times for the 6 pins and made sure to lock it so it wouldn't move after being placed, using the mate feature.
 
 ![My Image](masstruss.png)
 
