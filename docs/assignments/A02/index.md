@@ -48,6 +48,27 @@ To find the cross-sectional area of the pins the shear stress formula is used.
 ![My Image](weightofpins.png)
 
 Finding the weight of the pins was a similar process to find the weight of the truss using the same formulas. Knowing our minimum cross-sectional area for the pins and the density for the material of the pins the weight per unit length was found to be 0.033lb/in. Once again, this value times the length of the pin will give the value for the weight of the pins. I decided the pins to be flanged welded studs of 10mm or 0.3937in length to make sure it passed through one side of the wall, not pass both walls of the beam as it would make the beam lose structural integrity. Also, passing the stud through both sides of the beam would make it double shear connection. Therefore, the flanged welded studs are an ideal candidate for single shear connections. That being said, the cross-sectional area x 0.3937in length equals 0.0130lb per pin. Since there is going to be a pin at every joint this value is multiplied by 6 to account the weight of all 6 pins, equaling 0.078lb or 0.03538kg.
+
+![My Image](Screenshot 2026-08-30 160920.png)
+
+![My Image](trusssketch.png)
+
+![My Image](truss1stextude.png)
+
+![My Image](innertrussextrude.png)
+
+![My Image](centertruss.png)
+
+![My Image](finishedtrusswopin.png)
+
+![My Image](shellhollow.png)
+
+![My Image](Finishedweldedstud.png)
+
+![My Image](Finishedtrusswpin.png)
+
+![My Image](masstruss.png)
+
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
