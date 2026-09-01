@@ -51,9 +51,15 @@ Finding the weight of the pins was a similar process to find the weight of the t
 
 ![My Image](trusssketch.png)
 
+Firstly, I outlined the truss with the proper dimensions in mm, 400mm horizontally and 300mm vertically with a total length of 1200mm.
+
 ![My Image](truss1stextude.png)
 
+Then, I boss extruded the outline of the truss to 20mm; because I decided the width of the truss to be 20mm and the height 30mm to equal 600mm to met the required minimum cross-sectional area when the empty space is subtracted.
+
 ![My Image](centertruss.png)
+
+Now, I decided to eliminate the center by extrude cutting it, meaning I would later have to boss extrude again to add the missing beams. It would be less steps by just sketching the 4 separate triangles within the truss and extrude cutting it to create all our desired beams.
 
 ![My Image](innertrussextrude.png)
 
