@@ -39,6 +39,8 @@ I used a formula which allowed me to calculate for the area of a hollow rectangu
 
 ![My Image](weightoftruss.png)
 
+To find the weight of the truss the formula cross-sectional area times density equals weight per unit length is used. The density was found from the table previously used https://ficientdesign.com/a36-steel-properties/ and the cross-sectional area is known, we just need the input to calculate weight per unit length. The weight per unit length is calculated to be 3.144kg/m. Now, to find the weight for the whole truss I calculated the length of the hypotenuse using the Pythagorean Theorem to find the unknown diagonal it to be 0.5m or 500mm. Then, I added all the lengths of the x-axis beams, y-axis beams, and the diagonal beams, which equals 3.7m or 370mm. Multiplying the weight per unit length times the total beam length would cancel out the unit length giving the total weight of the truss, equaling 11.63kg.
+
 ![My Image](pincrosssecarea.png)
 
 ![My Image](weightofpins.png)
