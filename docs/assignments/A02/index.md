@@ -63,10 +63,14 @@ Now, I decided to eliminate the center by extrude cutting it, meaning I would la
 
 ![My Image](innertrussextrude.png)
 
+After, cutting the inner side of the truss I had to add 3 beams to complete my truss. Therefore, I drew 3 rectangles for the 3 beams and added dimensions to it. Each beam was 30mm in height and drew the rectangles overlapping as it shouldn't matter, it'll be extruded the same. 
+
 ![My Image](finishedtrusswopin.png)
+After extruding the 3 beams 20mm (width) the truss was completed. This is the truss without the pins.
 
 ![My Image](shellhollow.png)
 
+One last step to fully complete the truss was to add the empty space inside as originally calculated. To successfully do this I used the shell feature to create a hollow inside. The only thing that was necessary to input into the feature was the desired thickness of the wall, which for me is 5mm. Afterwards, to verify that the empty space was successfully created I went to the section view feature; under the header section 1 I selected right plane so that my truss could be cut from the right side so the inside of the truss can be viewed.
 ![My Image](Screenshot 2026-08-30 160920.png)
 
 ![My Image](Finishedweldedstud.png)
