@@ -50,7 +50,7 @@ To find the cross-sectional area of the pins the shear stress formula is used.
 ![My Image](weightofpins.png)
 
 Finding the weight of the pins was a similar process to find the weight of the truss using the same formulas. Knowing our minimum cross-sectional area for the pins and the density for the material of the pins the weight per unit length was found to be 0.033lb/in. Once again, this value times the length of the pin will give the value for the weight of the pins. I decided the pins to be flanged welded studs of 10mm or 0.3937in length to make sure it passed through one side of the wall, not pass both walls of the beam as it would make the beam lose structural integrity. Also, passing the stud through both sides of the beam would make it double shear connection. Therefore, the flanged welded studs are an ideal candidate for single shear connections. That being said, the cross-sectional area x 0.3937in length equals 0.0130lb per pin. Since there is going to be a pin at every joint this value is multiplied by 6 to account the weight of all 6 pins, equaling 0.078lb or 0.03538kg.
-
+## Truss CAD Model
 ![My Image](trusssketch.png)
 
 Firstly, I outlined the truss with the proper dimensions in mm, 400mm horizontally and 300mm vertically with a total length of 1200mm.
@@ -73,6 +73,8 @@ After extruding the 3 beams 20mm (width) the truss was completed. This is the tr
 ![My Image](shellhollow.png)
 
 One last step to fully complete the truss was to add the empty space inside as originally calculated. To successfully do this I used the shell feature to create a hollow inside. The only thing that was necessary to input into the feature was the desired thickness of the wall, which for me is 5mm. Afterwards, to verify that the empty space was successfully created I went to the section view feature; under the header section 1 I selected right plane so that my truss could be cut from the right side so the inside of the truss can be viewed. I also had created holes where the flanged welded stud would be located.
+
+## Flanged Welded Stud CAD Model
 ![My Image](Screenshot 2026-08-30 160920.png)
 
 For the flanged welded stud, I simply made two circles, one diameter 9.89mm (the minimum pin diameter) and the other 15mm acting as a washer. Then the outer circle was extruded to 2mm, while the stud was extruded to 8mm to make sure it passes through the thickness of one side of the wall.
@@ -80,16 +82,15 @@ For the flanged welded stud, I simply made two circles, one diameter 9.89mm (the
 ![My Image](Finishedweldedstud.png)
 
 This is the finished product of the flanged welded stud with a fillet to create smoother edge.
-
+## Final CAD Model
 ![My Image](Finishedtrusswpin.png)
 
 At this point my truss is set with the welded studs to hold the joints together. I had gone into assembly to add both the files of the truss and the pin (stud) and put the pins on the truss, in its designated pin hole that was created, using mate feature. I had to add the file of the pin 6 times for the 6 pins and made sure to lock it so it wouldn't move after being placed, using the mate feature.
-
+## Software Weight Calculations
 ![My Image](masstruss.png)
 
 ## Decide
-The geometric shape I selected are triangles, because they are the strongest geometric shape due to its rigidness and ability to distribute loads evenly. I was debating how the center diagonal beam should be placed and decided top left to bottom right. I chose the beam to be like this considering the loads. The load coming from the center left bottom is pushing up while the load on the center right bottom is pulling down. Therefore, due to these loads there would be a twisting sort of action on the truss. To minimize it I added the diagonal beam as described
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
+The geometric shape I selected are triangles, because they are the strongest geometric shape due to its rigidness and ability to distribute loads evenly. I was debating how the center diagonal beam should be placed and decided top left to bottom right. I chose the beam to be like this considering the loads. The load coming from the center left bottom is pushing up while the load on the center right bottom is pulling down. Therefore, due to these loads there would be a twisting sort of action on the truss. To minimize it I added the diagonal beam as described so that the load pushing up can be distributed through more beams putting less stress on a specific beam. For the load pulling down, now it is also held by the diagonal beam welded at joint E. This beam increases the overall truss stability and stiffness to prevent unwanted outcomes.
 
 ## Communicate
 
