@@ -87,9 +87,14 @@ This is the finished product of the flanged welded stud with a fillet to create 
 
 At this point my truss is set with the welded studs to hold the joints together. I had gone into assembly to add both the files of the truss and the pin (stud) and put the pins on the truss, in its designated pin hole that was created, using mate feature. I had to add the file of the pin 6 times for the 6 pins and made sure to lock it so it wouldn't move after being placed, using the mate feature.
 ## Software Weight Calculations
-![My Image](masstruss.png)
 
 ![My Image](trussonlyweight.png)
+
+The weight of just the truss design is 10373.56 grams which is equivalent to 10.374kg and I had calculated the truss to be 11.63kg. Therefore, my calculations is slightly off, although the removed mass for the pins also account for the mass calculated by SolidWorks to be lower. Yet, I believe the mass of the truss without the pin holes would still be slighty lower compared to my written calculations.
+
+![My Image](masstruss.png)
+
+According to SolidWorks the mass of the designed truss with the pins is 22.97 lbs. or 10.419kg. Subtracting this by the weight of just the truss calculates to 0.045kg, since there are 6 pins this number is divided by 6 to give a weight value of 0.0075kg per pin. That being said, SolidWorks computations vs my written calculations are relatively close.
 
 ## Decide
 The geometric shape I selected are triangles, because they are the strongest geometric shape due to its rigidness and ability to distribute loads evenly. I was debating how the center diagonal beam should be placed and decided top left to bottom right. I chose the beam to be like this considering the loads. The load coming from the center left bottom is pushing up while the load on the center right bottom is pulling down. Therefore, due to these loads there would be a twisting sort of action on the truss. To minimize it I added the diagonal beam as described so that the load pushing up can be distributed through more beams putting less stress on a specific beam. For the load pulling down, now it is also held by the diagonal beam welded at joint E. This beam increases the overall truss stability and stiffness to prevent unwanted outcomes. Also, earlier I had stated why I chose a hollow interior rather than a solid beam, since it is stiffer.
