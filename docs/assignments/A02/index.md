@@ -94,7 +94,7 @@ The weight of just the truss design is 10373.56 grams which is equivalent to 10.
 
 ![My Image](masstruss.png)
 
-According to SolidWorks the mass of the designed truss with the pins is 22.97 lbs. or 10.419kg. Subtracting this by the weight of just the truss calculates to 0.045kg, since there are 6 pins this number is divided by 6 to give a weight value of 0.0075kg per pin. That being said, SolidWorks computations vs my written calculations are relatively close.
+According to SolidWorks the mass of the designed truss with the pins is 22.97 lbs. or 10.419kg. Subtracting this by the weight of just the truss calculates to 0.045kg, since there are 6 pins this number iyields divided by 6 to give a weight value of 0.0075kg per pin. That being said, SolidWorks computations vs my written calculations are relatively close.
 
 ## Geometric Design Decision
 The geometric shape I selected are triangles, because they are the strongest geometric shape due to its rigidness and ability to distribute loads evenly. I was debating how the center diagonal beam should be placed and decided top left to bottom right. I chose the beam to be like this considering the loads. The load coming from the center left bottom is pushing up while the load on the center right bottom is pulling down. Therefore, due to these loads there would be a twisting sort of action on the truss. To minimize it I added the diagonal beam as described so that the load pushing up can be distributed through more beams putting less stress on a specific beam. For the load pulling down, now it is also held by the diagonal beam welded at joint E. This beam increases the overall truss stability and stiffness to prevent unwanted outcomes. Also, earlier I had stated why I chose a hollow interior rather than a solid beam, since it is stiffer.
@@ -104,3 +104,13 @@ Overall, from this assignment I learned how use statics and solid mechanics to c
 
 ## Likelihood of Failure Modes in Truss Components
 
+Part 1- Truss Members
+
+Truss members that are in compression are prone to buckling, which can even happen before the material reaches its yield strength, if the slenderness ratio is high. While members that experience tension tend to fail due to material yielding, by the increase in stress. ASTM A36 is widely used to withstand heavy loads being a popular choice for relatively cheap and ductile. Therefore, it can bend and return it its original form, but once it passes its elastic limit it will be permanently deformed. Since high slenderness causes members in compression to buckle it is ideal to decrease the length of the member to make the member more rigid. Another option would be to increase the cross-sectional are as this would minimize the stress (sigma=F/A). Whereas, for members in tension which tend to fail due to material yielding. According to the stress formula where stress=F/A if the cross-sectional of the member is too small compared to the force it'll snap due to the tension stretching the material past its yield point. So, increasing cross-sectional area will prevent this stretch which can lead to a failure, minimizing stress on the member. Also, choosing a stiffer material would be less likely to be stretched under the same load.
+
+Part 2 Pin Connections
+
+##Citations
+
+[https://sensazioni.org/tension-compression-truss-members](https://ficientdesign.com/a36-steel-properties/)
+[https://www.bushwickmetals.com/a36-steel-plates-properties-uses-an-overview/](https://www.bushwickmetals.com/a36-steel-plates-properties-uses-an-overview/)
