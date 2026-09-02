@@ -102,3 +102,5 @@ The geometric shape I selected are triangles, because they are the strongest geo
 ## Engineering Lesson
 Overall, from this assignment I learned how use statics and solid mechanics to create a stable truss. I learned how to calculate the minimal cross-sectional area for a truss so it can support the largest force that the truss experiences. Afterwords, I learned how to calculate the minimal pin diameter using the cross-sectional area of the pins. Additionally, I learned that a hollow rectangular tube is stiffer than a solid rectangular beam by using the Area Moment of Inertia formula. I found out that weight can be calculated by multiplying the cross-sectional area, density, and length, which makes sense. This is basically the d=m/v formula as the cross-sectional area times length is the volume. This assignment helped me strengthen my solid mechanics knowledge and overall engineering skills.
 
+## Likelihood of Failure Modes in Truss Components
+
