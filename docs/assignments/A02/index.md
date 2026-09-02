@@ -96,8 +96,9 @@ The weight of just the truss design is 10373.56 grams which is equivalent to 10.
 
 According to SolidWorks the mass of the designed truss with the pins is 22.97 lbs. or 10.419kg. Subtracting this by the weight of just the truss calculates to 0.045kg, since there are 6 pins this number is divided by 6 to give a weight value of 0.0075kg per pin. That being said, SolidWorks computations vs my written calculations are relatively close.
 
-## Decide
+## Geometric Design Decision
 The geometric shape I selected are triangles, because they are the strongest geometric shape due to its rigidness and ability to distribute loads evenly. I was debating how the center diagonal beam should be placed and decided top left to bottom right. I chose the beam to be like this considering the loads. The load coming from the center left bottom is pushing up while the load on the center right bottom is pulling down. Therefore, due to these loads there would be a twisting sort of action on the truss. To minimize it I added the diagonal beam as described so that the load pushing up can be distributed through more beams putting less stress on a specific beam. For the load pulling down, now it is also held by the diagonal beam welded at joint E. This beam increases the overall truss stability and stiffness to prevent unwanted outcomes. Also, earlier I had stated why I chose a hollow interior rather than a solid beam, since it is stiffer.
 
-## Communicate
+## Engineering Lesson
+Overall, from this assignment I learned how use statics and solid mechanics to create a stable truss. I learned how to calculate the minimal cross-sectional area for a truss so it can support the largest force that the truss experiences. Afterwords, I learned how to calculate the minimal pin diameter using the cross-sectional area of the pins. Additionally, I learned that a hollow rectangular tube is stiffer than a solid rectangular beam by using the Area Moment of Inertia formula. I found out that weight can be calculated by multiplying the cross-sectional area, density, and length, which makes sense. This is basically the d=m/v formula as the cross-sectional area times length is the volume. This assignment helped me strengthen my solid mechanics knowledge and overall engineering skills.
 
