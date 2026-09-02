@@ -88,6 +88,7 @@ At this point my truss is set with the welded studs to hold the joints together.
 ![My Image](masstruss.png)
 
 ## Decide
+The geometric shape I selected are triangles, because they are the strongest geometric shape due to its rigidness and ability to distribute loads evenly. I was debating how the center diagonal beam should be placed and decided top left to bottom right. I chose the beam to be like this considering the loads. The load coming from the center left bottom is pushing up while the load on the center right bottom is pulling down. Therefore, due to these loads there would be a twisting sort of action on the truss. To minimize it I added the diagonal beam as described
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
 ## Communicate
