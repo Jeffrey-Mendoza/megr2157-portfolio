@@ -121,8 +121,11 @@ The expected failure mode in pin connections is typically shear yielding. If the
 ## Citations
 
 [Editiors, The. “Tension and Compression Members of Trusses (Design Guide).” Sensazioni.Org, 18 Mar. 2026, sensazioni.org/tension-compression-truss-members. ](https://sensazioni.org/tension-compression-truss-members)
+
 [East, Intsel Steel. “A36 Steel Plates: Properties & Uses.” Intsel Steel/Bushwick Metals, 17 June 2025, www.bushwickmetals.com/a36-steel-plates-properties-uses-an-overview/. ](https://www.bushwickmetals.com/a36-steel-plates-properties-uses-an-overview/)
+
 [“Understanding Shear Stress and Shear Load.” Protolabs Network, www.hubs.com/knowledge-base/understanding-shear-stress-and-shear-load/. Accessed 2 Sept. 2026. ](https://www.hubs.com/knowledge-base/understanding-shear-stress-and-shear-load/)
+
 [Risk of Pin Failure Integration: Exploring Prospective Platform Frameworks, www.flyriver.com/g/risk-of-pin-failure. Accessed 2 Sept. 2026. ](https://www.flyriver.com/g/risk-of-pin-failure)
 
 
