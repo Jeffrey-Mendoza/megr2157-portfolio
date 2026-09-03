@@ -119,6 +119,9 @@ The expected failure mode in pin connections is typically shear yielding. If the
 
 [https://github.com/Jeffrey-Mendoza/megr2157-portfolio/blob/main/docs/assignments/A02/Truss.SLDPRT](https://github.com/Jeffrey-Mendoza/megr2157-portfolio/blob/main/docs/assignments/A02/Truss.SLDPRT)
 
+
+[https://1drv.ms/u/c/a88588ba91baf92a/IQCXbioAXxZzT7Fg17hOvHzIAbS44tcaMx2H90O6ruZT2sI?e=1F95rv](https://1drv.ms/u/c/a88588ba91baf92a/IQCXbioAXxZzT7Fg17hOvHzIAbS44tcaMx2H90O6ruZT2sI?e=1F95rv)
+
 This assignment took me approximately 14 hours to complete.
 
 
