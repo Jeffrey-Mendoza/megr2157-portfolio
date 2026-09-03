@@ -108,8 +108,12 @@ Truss members that are in compression are prone to buckling, which can even happ
 
 ## Likelihood of Failure Modes in Pin Connections
 
+The expected failure mode in pin connections is typically shear yielding. If the force applied to the pin exceed its shear strength, the pin will fracture. The shear stress can be calculated by dividing the F/A; comparing the calculating value to the shear strength of the material. There are many factors that can contribute to a pin failure; environment, improper installation, and inadequate maintenance. Now to prevent from the pin failing to shear would be to ensure the pin hole has the correct dimensions and has a smooth edge. Also, choosing material with high shear strength will minimize the likelihood of the pin failing due to shear. 
 
 ## Citations
 
-[https://sensazioni.org/tension-compression-truss-members](https://ficientdesign.com/a36-steel-properties/)
+[https://sensazioni.org/tension-compression-truss-members](https://sensazioni.org/tension-compression-truss-members)
 [https://www.bushwickmetals.com/a36-steel-plates-properties-uses-an-overview/](https://www.bushwickmetals.com/a36-steel-plates-properties-uses-an-overview/)
+[https://www.hubs.com/knowledge-base/understanding-shear-stress-and-shear-load/](https://www.hubs.com/knowledge-base/understanding-shear-stress-and-shear-load/)
+[https://www.flyriver.com/g/risk-of-pin-failure](https://www.flyriver.com/g/risk-of-pin-failure)
+
