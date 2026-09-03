@@ -125,8 +125,6 @@ The expected failure mode in pin connections is typically shear yielding. If the
 [https://www.hubs.com/knowledge-base/understanding-shear-stress-and-shear-load/](https://www.hubs.com/knowledge-base/understanding-shear-stress-and-shear-load/)
 [https://www.flyriver.com/g/risk-of-pin-failure](https://www.flyriver.com/g/risk-of-pin-failure)
 
-[https://github.com/Jeffrey-Mendoza/megr2157-portfolio/blob/main/docs/assignments/A02/Truss.SLDPRT](https://github.com/Jeffrey-Mendoza/megr2157-portfolio/blob/main/docs/assignments/A02/Truss.SLDPRT)
-
 
 This assignment took me approximately 14 hours to complete.
 
