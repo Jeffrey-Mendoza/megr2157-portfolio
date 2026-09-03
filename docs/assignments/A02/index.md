@@ -110,6 +110,14 @@ Truss members that are in compression are prone to buckling, which can even happ
 
 The expected failure mode in pin connections is typically shear yielding. If the force applied to the pin exceed its shear strength, the pin will fracture. The shear stress can be calculated by dividing the F/A; comparing the calculating value to the shear strength of the material. There are many factors that can contribute to a pin failure; environment, improper installation, and inadequate maintenance. Now to prevent from the pin failing to shear would be to ensure the pin hole has the correct dimensions and has a smooth edge. Also, choosing material with high shear strength will minimize the likelihood of the pin failing due to shear. 
 
+## CAD Download
+
+[Pin CAD Model](https://1drv.ms/u/c/a88588ba91baf92a/IQBVjfixZy95TKEmB3T5LZ4gAamR6t2m7jiAbpaA1n1s7uM?e=PwnVMb)
+
+[Truss CAD Model](https://1drv.ms/u/c/a88588ba91baf92a/IQC1U9W5RKSWRaQpKWY_EBy6AW3Lw_VUpTTLROVlFCXlpDA?e=K23max)
+
+[Truss & Pin CAD Model](https://1drv.ms/u/c/a88588ba91baf92a/IQCXbioAXxZzT7Fg17hOvHzIAbS44tcaMx2H90O6ruZT2sI?e=1F95rv)
+
 ## Citations
 
 [https://sensazioni.org/tension-compression-truss-members](https://sensazioni.org/tension-compression-truss-members)
@@ -119,8 +127,6 @@ The expected failure mode in pin connections is typically shear yielding. If the
 
 [https://github.com/Jeffrey-Mendoza/megr2157-portfolio/blob/main/docs/assignments/A02/Truss.SLDPRT](https://github.com/Jeffrey-Mendoza/megr2157-portfolio/blob/main/docs/assignments/A02/Truss.SLDPRT)
 
-
-[https://1drv.ms/u/c/a88588ba91baf92a/IQCXbioAXxZzT7Fg17hOvHzIAbS44tcaMx2H90O6ruZT2sI?e=1F95rv](https://1drv.ms/u/c/a88588ba91baf92a/IQCXbioAXxZzT7Fg17hOvHzIAbS44tcaMx2H90O6ruZT2sI?e=1F95rv)
 
 This assignment took me approximately 14 hours to complete.
 
