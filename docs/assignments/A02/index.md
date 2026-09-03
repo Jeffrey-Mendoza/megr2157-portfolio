@@ -102,15 +102,14 @@ The geometric shape I selected are triangles, because they are the strongest geo
 ## Engineering Lesson
 Overall, from this assignment I learned how use statics and solid mechanics to create a stable truss. I learned how to calculate the minimal cross-sectional area for a truss so it can support the largest force that the truss experiences. Afterwords, I learned how to calculate the minimal pin diameter using the cross-sectional area of the pins. Additionally, I learned that a hollow rectangular tube is stiffer than a solid rectangular beam by using the Area Moment of Inertia formula. I found out that weight can be calculated by multiplying the cross-sectional area, density, and length, which makes sense. This is basically the d=m/v formula as the cross-sectional area times length is the volume. This assignment helped me strengthen my solid mechanics knowledge and overall engineering skills.
 
-## Likelihood of Failure Modes in Truss Components
-
-Part 1- Truss Members
+## Likelihood of Failure Modes in Truss Members
 
 Truss members that are in compression are prone to buckling, which can even happen before the material reaches its yield strength, if the slenderness ratio is high. While members that experience tension tend to fail due to material yielding, by the increase in stress. ASTM A36 is widely used to withstand heavy loads being a popular choice for relatively cheap and ductile. Therefore, it can bend and return it its original form, but once it passes its elastic limit it will be permanently deformed. Since high slenderness causes members in compression to buckle it is ideal to decrease the length of the member to make the member more rigid. Another option would be to increase the cross-sectional are as this would minimize the stress (sigma=F/A). Whereas, for members in tension which tend to fail due to material yielding. According to the stress formula where stress=F/A if the cross-sectional of the member is too small compared to the force it'll snap due to the tension stretching the material past its yield point. So, increasing cross-sectional area will prevent this stretch which can lead to a failure, minimizing stress on the member. Also, choosing a stiffer material would be less likely to be stretched under the same load.
 
-Part 2 Pin Connections
+## Likelihood of Failure Modes in Pin Connections
 
-##Citations
+
+## Citations
 
 [https://sensazioni.org/tension-compression-truss-members](https://ficientdesign.com/a36-steel-properties/)
 [https://www.bushwickmetals.com/a36-steel-plates-properties-uses-an-overview/](https://www.bushwickmetals.com/a36-steel-plates-properties-uses-an-overview/)
