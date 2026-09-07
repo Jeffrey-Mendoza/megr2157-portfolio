@@ -28,6 +28,10 @@ Next up was the use of the fixed geometry feature, I made the left edge or face 
 
 Afterwards, on the other edge or face of the rod I applied the force of 400lbf or 1779.289N using the external loads feature.
 
+![My Image](maaterial.png)
+
+Before testing the circular hollow rod, I made sure to apply the aluminum material so that the calculations would input the material property such as modulus of elasticity. I used Aluminum 1060 Alloy with a value of 69000N/mm^2 for modulus of elasticity which is equal to 10.007x10^6psi. N/mm^2=psi/145.038
+
 ![My Image](stresss.png)
 
 ![My Image](Displace.png)
@@ -41,4 +45,3 @@ Afterwards, on the other edge or face of the rod I applied the force of 400lbf o
 
 
 ## Communicate
-
