@@ -26,7 +26,7 @@ Next up was the use of the fixed geometry feature, I made the left edge or face 
 
 ![My Image](ForceinN.png)
 
-Afterwards, on the other edge or face of the rod I applied the force of 400lbf or 1779.289N using the external loads feature.
+Afterwards, on the other edge or face of the rod I applied the force of 400lbf or 1779.2N using the external loads feature.
 
 ![My Image](material.png)
 
