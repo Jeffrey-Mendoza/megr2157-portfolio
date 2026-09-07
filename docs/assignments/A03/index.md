@@ -4,7 +4,12 @@
 Design for stiffness by designing a bar using two types of analysis, axial deflection modeling to design its dimensions using parametric design to determine a bars length and get introduced to FEA (Finite Element Analysis). With a max bar axial deflection of 0.009in, material of Aluminum, circular cross-sectional area, and a direct load between 300lbf-500lbf. Get introduced to linking dimensions to appropriate parameters in CAD and compare and contrast the different analysis.
 
 ## Analyze
+
+## Parametric Design
 ![My Image](writtenwork.png)
+
+I was the decision to choose the values for the cross-sectional area of the circular bar. Therefore, since it has to be hollow there must be 2 diameters, an inner and outer diameter. That being said the formula for the cross-sectional area is 3.14(diameter outer^2- diameter inner^2)/4. Therefore, I chose the values to be 9in for the outer diameter and 6in for the inner diameter. With these values the cross-sectional area of the hollow circular rod comes out to 2.36in^2. Thickness is the outer diameter minus the inner diameter divided by 2 to give us a thickness of 1.5in. In this assignment it was allowed to choose a force value between 300lbf-500lbf; it is also allowed to choose the modulus of elasticity value within the range of 8.5x10^6-11.5x10^6. Also, being able to choose our area, force, and modulus of elasticity allows for the length required to be found knowing the max axial deflection, modulus of elasticity, force, and area.
+
 
 ![My Image](globalvariables.png)
 
