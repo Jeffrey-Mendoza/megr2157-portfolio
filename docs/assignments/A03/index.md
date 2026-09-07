@@ -14,6 +14,8 @@ After, I started on the circular cross-sectional area by giving the outer diamet
 
 ![My Image](extrusion.png)
 
+When the diameters of the rod were ready, the circles were extruded using the boss extrude feature, the rod was extended to 451.35in. This was the determined minimal length required based on the given information and selected dimensions for diameter.
+
 ![My Image](rod.png)
 
 ![My Image](fixedgeo.png)
