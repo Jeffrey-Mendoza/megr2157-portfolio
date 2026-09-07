@@ -17,11 +17,11 @@ After, I started on the circular cross-sectional area by giving the outer diamet
 When the diameters of the rod were ready, the circles were extruded using the boss extrude feature, the rod was extended to 451.35in. This was the determined minimal length required based on the given information and selected dimensions for diameter.
 
 ![My Image](rod.png)
-
+Rod after extrusion.
 ![My Image](fixedgeo.png)
-
+Next up was the use of the fixed geometry feature, I made the left edge or face of the rod fixed so that it wouldn't move when tested.
 ![My Image](forceinput.png)
-
+Afterwards, on the other edge or face of the rod I applied the force of 400lbf or 1779.289N using the external loads feature.
 ![My Image](stress.png)
 
 ![My Image](displacement.png)
