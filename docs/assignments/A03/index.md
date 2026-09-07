@@ -6,7 +6,11 @@ Design for stiffness by designing a bar using two types of analysis, axial defle
 ## Analyze
 ![My Image](globalvariables.png)
 
+The "Equations" feature was used to input "Global Variables" so that each variable can gain a value. Therefore, all the known variables were inputted to use later on throughout the CAD model.
+
 ![My Image](roddiameter.png)
+
+After, I started on the circular cross-sectional area by giving the outer diameter its Global Variable of 9in. Next was the inner diameter which was given a value of 6in. When inputting these values I made sure it was computed with the value from the Global Variables, by adding an equal sign before the diameter value.
 
 ![My Image](extrusion.png)
 
