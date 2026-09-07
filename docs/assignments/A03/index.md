@@ -10,7 +10,7 @@ The "Equations" feature was used to input "Global Variables" so that each variab
 
 ![My Image](roddiameter.png)
 
-After, I started on the circular cross-sectional area by giving the outer diameter its Global Variable of 9in. Next was the inner diameter which was given a value of 6in. When inputting these values I made sure it was computed with the value from the Global Variables, by adding an equal sign before the diameter value.
+After, I started on the circular cross-sectional area by giving the outer diameter its Global Variable value of 9in. Next was the inner diameter which was given a value of 6in. When inputting these values I made sure it was computed with the value from the Global Variables feature, by adding an equal sign before the diameter value.
 
 ![My Image](extrusion.png)
 
