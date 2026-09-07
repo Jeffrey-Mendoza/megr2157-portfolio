@@ -12,6 +12,8 @@ Design for stiffness by designing a bar using two types of analysis, axial defle
 
 ![My Image](rod.png)
 
+![My Image](fixedgeo.png)
+
 ![My Image](forceinput.png)
 
 ![My Image](stress.png)
