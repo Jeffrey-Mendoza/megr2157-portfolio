@@ -25,6 +25,7 @@ After, I started on the circular cross-sectional area by giving the outer diamet
 
 When the diameters of the rod were ready, the circles were extruded using the boss extrude feature, the rod was extended to 6758.78in. This was the determined minimal length required based on the given information and selected dimensions for diameter.
 
+##CAD Fixed Geometry and Force Feature
 ![My Image](newgeo1.png)
 
 Next up was the use of the fixed geometry feature, I made the left edge or face of the rod fixed so that it wouldn't move when tested.
@@ -37,11 +38,18 @@ Afterwards, on the other edge or face of the rod I applied the force of 400lbf u
 
 Before testing the circular hollow rod, I made sure to apply the aluminum material so that the calculations would input the material property such as modulus of elasticity. I used Aluminum 1060 Alloy with a value of 69000N/mm^2 for modulus of elasticity which is equal to 10.007x10^6psi. N/mm^2=psi/145.038
 
+##CAD Diagrams
 ![My Image](newstress.png)
+
+
 
 ![My Image](newdisplace.png)
 
+
+
 ![My Image](newdeform.png)
+
+
 
 ![My Image](Newfos.png)
 
