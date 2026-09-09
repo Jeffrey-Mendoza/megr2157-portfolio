@@ -57,6 +57,6 @@ This calculates the factor of safety and got the same value I had gotten of 315 
 
 ## Decide
 
-From the parametric written calculation, I had used the maximum axial deflection value of 0.009 to find my length. Therefore, 0.009in should've been the max displacement experienced on the rod during the test. Yet, the maximum displacement calculated by SolidWorks during the study is 0.007752in, a lower value then what it should've been. The percent difference is 2(value difference)/(sum of values)*100. 2(0.009-0.007752)/(0.009+0.007752)*100= 14.9% difference between the two values.
+From the parametric written calculation, I had used the maximum axial deflection value of 0.009 to find my length. Therefore, 0.009in should've been the max displacement experienced on the rod during the test. Yet, the maximum displacement calculated by SolidWorks during the study is 0.007752in, a lower value then what it should've been. The percent difference is 2(value difference)/(sum of values)*100. 2(0.009-0.007752)/(0.009+0.007752)*100= 14.9% difference between the two values. The reason for the percentage difference is due to the value of the modulus of elasticity. In the written calculation the modulus of elasticity used was 58605.33N/mm^2 while the SolidWorks calculation used the material's property of 69000N/mm^2 for modulus of elasticity.
 
 ## Communicate
