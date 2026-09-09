@@ -67,3 +67,7 @@ From this assignment I learned how input values that correspond to a variable us
 
 My goal would be to make the length of the rod to decrease. Yet, I want to challenge myself by using more load, 500lbf. For my new dimensions I'll choose an outer diameter of 2in and inner diameter of 1.5in to create a smaller thickness leading to a smaller cross-sectional area.  To accurately compare with the previous calculation, I'll use the 8500000lbf/in^2 modulus of elasticity previously used. The new thickness of the rod is 0.25in. After calculations with the parametric design modification the new length minimum is 210.29in. As expected, since the A variable is in the numerator the length output got smaller using a smaller cross-sectional area. 
 
+## CAD Model
+
+[Circular Hollow Rod Tested](https://1drv.ms/f/c/a88588ba91baf92a/IgDZ2mwF0BxsQKX6aOaf-98QAUk5R1o3QSK59xNLE9kdv6s?e=SzNg45)
+
