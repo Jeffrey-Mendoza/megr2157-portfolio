@@ -18,21 +18,20 @@ The "Equations" feature was used to input "Global Variables" so that each variab
 
 ![My Image](roddiameter.png)
 
-After, I started on the circular cross-sectional area by giving the outer diameter its Global Variable value of 9in. Next was the inner diameter which was given a value of 6in. When inputting these values I made sure it was computed with the value from the Global Variables feature, by adding an equal sign before the diameter value.
+After, I started on the circular cross-sectional area by giving the outer diameter its Global Variable value of 9in. Next was the inner diameter which was given a value of 6in. When inputting these values I made sure it was computed with the value from the Global Variables feature, by adding an equal sign before the diameter value, giving the sigma symbol.
 
 
 ![My Image](newrod.png)
 
-When the diameters of the rod were ready, the circles were extruded using the boss extrude feature, the rod was extended to 451.35in. This was the determined minimal length required based on the given information and selected dimensions for diameter.
+When the diameters of the rod were ready, the circles were extruded using the boss extrude feature, the rod was extended to 6758.78in. This was the determined minimal length required based on the given information and selected dimensions for diameter.
 
-![My Image](newgeo.png)
 ![My Image](newgeo1.png)
 
 Next up was the use of the fixed geometry feature, I made the left edge or face of the rod fixed so that it wouldn't move when tested.
 
 ![My Image](newforce.png)
 
-Afterwards, on the other edge or face of the rod I applied the force of 400lbf or 1779.2N using the external loads feature.
+Afterwards, on the other edge or face of the rod I applied the force of 400lbf using the external loads feature.
 
 ![My Image](material.png)
 
