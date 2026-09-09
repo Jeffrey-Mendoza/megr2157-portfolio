@@ -14,7 +14,7 @@ I had the decision to choose the values for the cross-sectional area of the circ
 
 ![My Image](newg.png)
 
-The "Equations" feature was used to input "Global Variables" so that each variable can gain a value. Therefore, all the known variables were inputted to use later on throughout the CAD model. Yet, for the value of length we used the same formula previously used to find length. Operations using the global variables was used to find the length on Solid Works. Solid Works computed the value 451.35in for the length, which is the same value I calcualted.
+The "Equations" feature was used to input "Global Variables" so that each variable can gain a value. Therefore, all the known variables were inputted to use later on throughout the CAD model. Yet, for the value of length we used the same formula previously used to find length. Operations using the global variables was used to find the length on Solid Works. Solid Works computed the value 6758.78in for the length, which is the same value I calcualted.
 
 ![My Image](roddiameter.png)
 
