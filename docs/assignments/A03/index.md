@@ -49,12 +49,14 @@ This graph shows the axial deflection of the bar to be a maximum of 1.969x10^-1m
 
 ![My Image](newdeform.png)
 
-
+This CAD image shows the deformation of the model.
 
 ![My Image](Newfos.png)
 
+This calculates the factor of safety and got the same value I had gotten of 315 with slightly different decimals, due to rounding most likely. 
 
 ## Decide
 
+From the parametric written calculation, I had used the maximum axial deflection value of 0.009 to find my length. Therefore, 0.009in should've been the max displacement experienced on the rod during the test. Yet, the maximum displacement calculated by SolidWorks during the study is 0.007752in, a lower value then what it should've been.
 
 ## Communicate
