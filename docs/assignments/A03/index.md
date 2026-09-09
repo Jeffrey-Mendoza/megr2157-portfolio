@@ -53,7 +53,7 @@ This CAD image shows the deformation of the model.
 
 ![My Image](Newfos.png)
 
-This calculates the factor of safety and got the same value I had gotten of 315 with slightly different decimals, due to rounding most likely. 
+This calculates the factor of safety and got the same value I had gotten of 315 with slightly different decimal values, due to rounding most likely. 
 
 ## Decide
 
@@ -62,4 +62,8 @@ From the parametric written calculation, I had used the maximum axial deflection
 ## Engineering Lesson & Mistakes
 
 From this assignment I learned how input values that correspond to a variable using the "Equations" feature to create, what is called, global variables which can be used when creating dimensions. Additional knowledge gained is how to test designs I create on SolidWorks to check its stress, displacement, deformation, and factor of safety. Furthermore, I learned how to read and calculate the safeness of the design, by using the legend created in SolidWorks and comparing it to the yield strength, max axial deflection, or written calculations for the safety factor. I had forgotten to square my diameters when finding the cross-sectional area leading to inaccurate calculations and testing later on. Therefore, I had to redo the SolidWorks testing with the correct cross-sectional area to gain accurate information. For this assignment it took me approximately 5-6 hours to complete, including the reading, calucations, testing, and updating portfolio.
+
+## Parametric Design Modification
+
+My goal would be to make the length of the rod to decrease. Yet, I want to challenge myself by using more load, 500lbf. For my new dimensions I'll choose an outer diameter of 2in and inner diameter of 1.5in to create a smaller thickness leading to a smaller cross-sectional area.  To accurately compare with the previous calculation I'll use the 8500000lbf/in^2 modulus of elasticity previously used.
 
