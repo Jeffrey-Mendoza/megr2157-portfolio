@@ -41,11 +41,11 @@ Before testing the circular hollow rod, I made sure to apply the aluminum materi
 ##CAD Diagrams
 ![My Image](newstress.png)
 
-
+According to the test the maximum stress experienced by the beam is 8.743x10^4N/m^2. This is lower than the strength of aluminum of 40psi or 2.7579x10^8N/m^2 and the strength of the 1060 alloy valued at 2.757x10^7N/m^2. To find the safety of factor the formula is, SF= yield strength/ stress max. So, using the value from outline, SF= 2.7579x10^8N/m^2 / 8.743x10^4N/m^2= a safety factor of 3154.41. Whereas, using the value from SolidWorks SF= 2.757x10^7N/m^2 / 8.743x10^4N/m^2 = a safety factor of 315.44. That being said, the experienced stress is significantly lower than both yield strengths.
 
 ![My Image](newdisplace.png)
 
-
+This graph shows the axial deflection of the bar to be a maximum of 1.969x10^-1mm= 0.1969mm= 0.007752in. Our allowed max axial deflection is no more than 0.009in, meaning the circular rod I created satisfied the condition being under 0.009in axial deflection. 
 
 ![My Image](newdeform.png)
 
