@@ -5,8 +5,12 @@ This assignment requires us to design a motor mount using the (Brushed 24V DC Ge
 
 ![My Image](motorm.png)
 
+Figure 1: Shows motor, the rigid wall and the force received on the shaft of the motor, where P = 300 N
+
+Appendix A:
 ![My Image](Motord.png)
 
+Appendix B:
 ![My Image](apendb.png)
 
 
