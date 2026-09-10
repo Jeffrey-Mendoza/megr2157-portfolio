@@ -61,10 +61,11 @@ From the parametric written calculation, I had used the maximum axial deflection
 
 From this assignment I learned how input values that correspond to a variable using the "Equations" feature to create, what is called, global variables which can be used when creating dimensions. Additional knowledge gained is how to test designs I create on SolidWorks to check its stress, displacement, deformation, and factor of safety. Furthermore, I learned how to read and calculate the safeness of the design, by using the legend created in SolidWorks and comparing it to the yield strength, max axial deflection, or written calculations for the safety factor. I had forgotten to square my diameters when finding the cross-sectional area leading to inaccurate calculations and testing later on. Therefore, I had to redo the SolidWorks testing with the correct cross-sectional area to gain accurate information. 
 
+## Stress Concentration Factor
 ![My Image](wpin.png)
 After getting the stress concentration factor equation from Peterson's chart and imagining an inch diameter hole (d) and a plate width(w) of 10in.; I was able to use the formula to get a concentration factor value of 2.72. Then imputing this value to fine the maximum stress by multiplying the factor times the max stress experienced on the rod comes out to 237809.6N/m^2. To determine if it would still pass the safety factor, I used the formula SF= yield strength/ stress max. After calculations I got a safety factor of 115.93 satisfying a minimum safety factor of 3.
 
-For this assignment it took me approximately 5-6 hours to complete, including the reading, calucations, testing, and updating portfolio.
+For this assignment it took me approximately 6 hours to complete, including the reading, calucations, testing, and updating portfolio.
 
 ## Parametric Design Modification
 
