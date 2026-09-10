@@ -73,5 +73,5 @@ My goal would be to make the length of the rod to decrease. For my new dimension
 
 ## CAD Model
 
-[Circular Hollow Rod Tested](https://1drv.ms/u/c/a88588ba91baf92a/IQA00bwB1KMcQJuZT5zELLqnAZ8m-96ns3hdFV_CMetDeOA?e=eTeMIt)
+[Circular Hollow Rod Tested](https://1drv.ms/u/c/a88588ba91baf92a/IQA00bwB1KMcQJuZT5zELLqnAZ8m-96ns3hdFV_CMetDeOA?e=B6HITb)
 
