@@ -18,9 +18,6 @@ Appendix B:
 ## Motor Mount Research
 From 2 websites that I looked into some of the different motor mounts displayed were ones with some "ears" and conical mounts. Rubber engine mounts are great for dampening noise levels. Stiffer motor mounts are the opposite; their issue is vibrations. Although stiffer motor mounts lead to greater maximum output of the engine. Also, it is noted that the size of the motor mount doesn't need to cover the whole length, as its main purpose is to hold the engine in place.
 
-
-[Link 1](https://low-offset.com/workshop/solid-engine-mounts/)
-[Link 2](https://www.onallcylinders.com/2016/09/30/engine-mounts-and-motor-mounts/)
 ## Feature 1
 
 ![My Image](feature1.png)
@@ -83,6 +80,11 @@ With that the CAD model of the motor mount is complete.
 ## Lesson Learned
 
 From this assignment I learned how to design a CAD model for an object following its constraints and determining dimensions to withstand a certain force. I was stumbled upon my second moment due to being confused the location of point A, but then later on I found to location of point A on feature 1. With this assignment I also reviewed how to create a multiview sketch drawing in SolidWorks. This assignment took me approximately 5 hours to complete.
+
+## Appendix
+
+[Menon, Author                                            	Kiran, et al. “Solid vs Polyurethane Motor Mounts: Does Material Matter?” Low Offset, 23 Nov. 2024, low-offset.com/workshop/solid-engine-mounts/. ](https://low-offset.com/workshop/solid-engine-mounts/)
+[Fuller, David. “Engine Mounts 101: A Basic Guide to Choosing Engine Mounts.” OnAllCylinders, 30 May 2018, www.onallcylinders.com/2016/09/30/engine-mounts-and-motor-mounts/. ](https://www.onallcylinders.com/2016/09/30/engine-mounts-and-motor-mounts/)
 
 
 
