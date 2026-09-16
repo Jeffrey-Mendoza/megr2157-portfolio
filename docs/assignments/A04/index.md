@@ -47,6 +47,9 @@ Appendix B:
 
 ![My Image](a4final.png)
 
+![My Image](A4 Multiview drawing.pdf)
+
+
 ## Decide
 
 
