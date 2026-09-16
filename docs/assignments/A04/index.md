@@ -15,12 +15,37 @@ Appendix B:
 
 ## Feature 1
 
+![My Image](feature1.png)
+
+![My Image](Asec1.png)
+
 ## Feature 2
+
+![My Image](feature2.png)
 
 ## Sketch
 
+![My Image](isodraw.png)
+
 ## CAD Model
 
+![My Image](a4global.png)
+
+![My Image](feature2sketch.png)
+
+![My Image](feature1sketch.png)
+
+![My Image](f1extrude.png)
+
+![My Image](6diameter.png)
+
+![My Image](cut.png)
+
+![My Image](feature1inner.png)
+
+![My Image](f2hole.png)
+
+![My Image](a4final.png)
 
 ## Decide
 
