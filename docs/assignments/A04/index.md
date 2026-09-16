@@ -19,8 +19,8 @@ Appendix B:
 From 2 websites that I looked into some of the different motor mounts displayed were ones with some "ears" and conical mounts. Rubber engine mounts are great for dampening noise levels. Stiffer motor mounts are the opposite; their issue is vibrations. Although stiffer motor mounts lead to greater maximum output of the engine. Also, it is noted that the size of the motor mount doesn't need to cover the whole length, as its main purpose is to hold the engine in place.
 
 
-https://low-offset.com/workshop/solid-engine-mounts/
-https://www.onallcylinders.com/2016/09/30/engine-mounts-and-motor-mounts/
+[Link 1](https://low-offset.com/workshop/solid-engine-mounts/)
+[Link 2](https://www.onallcylinders.com/2016/09/30/engine-mounts-and-motor-mounts/)
 ## Feature 1
 
 ![My Image](feature1.png)
