@@ -65,7 +65,7 @@ The 22mm diameter circle was used just for reference of where the bolt holes wou
 
 ![My Image](f2hole.png)
 
-After, I was done with all the extruded cuts in feature 1 I moved onto finishing feature 2 add the 3.4mm diameter clearance holes for the M3 bolts.
+After, I was done with all the extruded cuts in feature 1 I moved onto finishing feature 2 add the 3.4mm diameter clearance holes for the M3 bolts. As well, I made sure to add equal distances for each hole to the horizontal and vertical edge, to make them symmetrical.
 
 ![My Image](a4final.png)
 
