@@ -41,21 +41,35 @@ This is the 3D sketch of how my design on SolidWorks will look like, with the di
 
 ![My Image](a4global.png)
 
+Input of all my global variables and caluclating for both heights.
+
 ![My Image](feature2sketch.png)
 
-![My Image](feature1sketch.png)
+I decided to draw out the features separately and started with feature 2. I used global variables to input for the dimensions of the features.
 
 ![My Image](f1extrude.png)
 
+Afterwards, I sketched feature 1 after the base of feature 2 was finished and made sure to input height from calculations for feature 1 using global variables. Extrusion was global variable "L1" or 35mm.
+
 ![My Image](6diameter.png)
+
+I made sure the motor mount would go in the center of feature 1 and drew out the diameter for the shaft of the motor to extrude cut it all the way through.
 
 ![My Image](cut.png)
 
+I also realized the additional space the motor mount needed and added the alignment pocket to be 2mm in depth.
+
 ![My Image](feature1inner.png)
+
+The 22mm diameter circle was used just for reference of where the bolt holes would be located.
 
 ![My Image](f2hole.png)
 
+After, I was done with all the extruded cuts in feature 1 I moved onto finishing feature 2 add the 3.4mm diameter clearance holes for the M3 bolts.
+
 ![My Image](a4final.png)
+
+With that the CAD model of the motor mount is complete.
 
 [View A4 Multiview Drawing](A4%20Multiview%20drawing.pdf)
 
