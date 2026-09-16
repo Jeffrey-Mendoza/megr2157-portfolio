@@ -74,12 +74,15 @@ After, I was done with all the extruded cuts in feature 1 I moved onto finishing
 
 With that the CAD model of the motor mount is complete.
 
-[View A4 Multiview Drawing](A4%20Multiview%20drawing.pdf)
-
-
 ## Lesson Learned
 
 From this assignment I learned how to design a CAD model for an object following its constraints and determining dimensions to withstand a certain force. I was stumbled upon my second moment due to being confused the location of point A, but then later on I found to location of point A on feature 1. With this assignment I also reviewed how to create a multiview sketch drawing in SolidWorks. This assignment took me approximately 5 hours to complete.
+
+## Downloads
+
+[View A4 Multiview Drawing](A4%20Multiview%20drawing.pdf)
+
+[CAD Model](https://1drv.ms/u/c/a88588ba91baf92a/IQBZ6Y4-uuwJQKHEMCdL4GwoAaX_aoxUX52OXgpiOGoBXUY?e=O03PxM)
 
 ## Appendix
 
