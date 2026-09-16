@@ -8,16 +8,22 @@ This assignment requires us to design a motor mount using the (Brushed 24V DC Ge
 Figure 1: Shows motor, the rigid wall and the force received on the shaft of the motor, where P = 300 N
 
 Appendix A:
+
 ![My Image](Motord.png)
 
 Appendix B:
+
 ![My Image](apendb.png)
 
 ## Feature 1
 
 ![My Image](feature1.png)
 
+First, I listed all my knowns and unknowns. I decided to use ABS material and chose the lowest stress yield and modulus of elasticity within the range given for the material. Stress yield=29.6 N/mm^2 and modulus of elasticity=1790N/mm^2. Then I decided the length and base of feature one to be 35mm both sides, to create a nice, squared shape. After, I needed to find the bending moment at point A of feature one by multiplying the force times the distance from A perpendicular to the force, 300N times the 18mm. Using the stress maximum formula, I substituted for known variables and rearranged to solve for the height. I made sure to convert all my values so I could get an accurate answer. After testing for the minimum height required for yield strength and maximum deflection, I found my value for the height of feature 1 to be 12.83mm. Since the height minimum for the maximum deflection design is higher than the design for yield strength, I need to use the height calculated for maximum deflection. That way the motor mount won't fail to satisfy both the yield strength and the max deflection.
+
 ![My Image](Asec1.png)
+
+To find the area of the rectangle I multiplied it's base times the height value calculated. The area is 449.05mm^2.
 
 ## Feature 2
 
