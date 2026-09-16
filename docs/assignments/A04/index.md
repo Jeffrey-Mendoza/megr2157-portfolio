@@ -35,6 +35,8 @@ To create my second feature the process was identical to create feature 1. I cho
 
 ![My Image](isodraw.png)
 
+This is the 3D sketch of how my design on SolidWorks will look like, with the dimensions.
+
 ## CAD Model
 
 ![My Image](a4global.png)
