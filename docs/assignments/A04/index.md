@@ -29,6 +29,8 @@ To find the area of the rectangle I multiplied it's base times the height value 
 
 ![My Image](feature2.png)
 
+To create my second feature the process was identical to create feature 1. I chose the same material, ABS, with the same yield strength and modulus of elasticity. Initially I had chosen a length of 60mm to cover most of the motor, but later on I changed that to reduce the height for feature 2. I didn't want to have a high value for height because that would make the motor mount look unappealing. Therefore, I went with a length of 40mm by a base of 35mm. I was stumbled upon my second moment due to being confused the location of point A. After figuring it out I calculated moment 2 to be 300N multiplied by (40mm+18mm) which is the perpendicular distance from point A to the force. Like previous the design for yield stress had an output for a lower minimum diameter required of 17.39mm. While the design for maximum deflection had a height value of 20.71mm. Like previously the higher height value was chosen to prevent permanent deformation and elongation past 0.30mm. The area for feature 2 came out to be 724.98mm^2 using the height calculated for feature 2.
+
 ## Sketch
 
 ![My Image](isodraw.png)
