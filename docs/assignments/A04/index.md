@@ -86,8 +86,9 @@ From this assignment I learned how to design a CAD model for an object following
 
 ## Appendix
 
-[Menon, Author                                            	Kiran, et al. “Solid vs Polyurethane Motor Mounts: Does Material Matter?” Low Offset, 23 Nov. 2024, low-offset.com/workshop/solid-engine-mounts/. ](https://low-offset.com/workshop/solid-engine-mounts/)
-[Fuller, David. “Engine Mounts 101: A Basic Guide to Choosing Engine Mounts.” OnAllCylinders, 30 May 2018, www.onallcylinders.com/2016/09/30/engine-mounts-and-motor-mounts/. ](https://www.onallcylinders.com/2016/09/30/engine-mounts-and-motor-mounts/)
+-[Menon, Author                                            	Kiran, et al. “Solid vs Polyurethane Motor Mounts: Does Material Matter?” Low Offset, 23 Nov. 2024, low-offset.com/workshop/solid-engine-mounts/. ](https://low-offset.com/workshop/solid-engine-mounts/)
+
+-[Fuller, David. “Engine Mounts 101: A Basic Guide to Choosing Engine Mounts.” OnAllCylinders, 30 May 2018, www.onallcylinders.com/2016/09/30/engine-mounts-and-motor-mounts/. ](https://www.onallcylinders.com/2016/09/30/engine-mounts-and-motor-mounts/)
 
 
 
