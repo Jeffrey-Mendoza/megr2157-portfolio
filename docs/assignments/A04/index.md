@@ -22,7 +22,7 @@ From 2 websites that I looked into some of the different motor mounts displayed 
 
 ![My Image](feature1.png)
 
-First, I listed all my knowns and unknowns. I decided to use ABS material and chose the lowest stress yield and modulus of elasticity within the range given for the material. Stress yield=29.6 N/mm^2 and modulus of elasticity=1790N/mm^2. Then I decided the length and base of feature one to be 35mm both sides, to create a nice, squared shape. After, I needed to find the bending moment at point A of feature one by multiplying the force times the distance from A perpendicular to the force, 300N times the 18mm. Using the stress maximum formula, I substituted for known variables and rearranged to solve for the height. I made sure to convert all my values so I could get an accurate answer. After testing for the minimum height required for yield strength and maximum deflection, I found my value for the height of feature 1 to be 12.83mm. Since the height minimum for the maximum deflection design is higher than the design for yield strength, I need to use the height calculated for maximum deflection. That way the motor mount won't fail to satisfy both the yield strength and the max deflection.
+First, I listed all my knowns and unknowns. I decided to use ABS material and chose the lowest stress yield and modulus of elasticity within the range given for the material. Stress yield=29.6 N/mm^2 and modulus of elasticity=1790N/mm^2. Then I decided the length and base of feature one to be 35mm both sides. After, I needed to find the bending moment at point A of feature one by multiplying the force times the distance from A perpendicular to the force, 300N times the 18mm. Using the stress maximum formula, I substituted for known variables and rearranged to solve for the height. I made sure to convert all my values so I could get an accurate answer. After testing for the minimum height required for yield strength and maximum deflection, I found my value for the height of feature 1 to be 12.83mm. Since the height minimum for the maximum deflection design is higher than the design for yield strength, I need to use the height calculated for maximum deflection. That way the motor mount won't fail to satisfy both the yield strength and the max deflection.
 
 ![My Image](Asec1.png)
 
@@ -32,7 +32,7 @@ To find the area of the rectangle I multiplied it's base times the height value 
 
 ![My Image](feature2.png)
 
-To create my second feature the process was identical to create feature 1. I chose the same material, ABS, with the same yield strength and modulus of elasticity. Initially I had chosen a length of 60mm to cover most of the motor, but later on I changed that to reduce the height for feature 2. I didn't want to have a high value for height because that would make the motor mount look unappealing. Therefore, I went with a length of 40mm by a base of 35mm. After figuring it out I calculated moment 2 to be 300N multiplied by (40mm+18mm) which is the perpendicular distance from point A to the force. Like previous the design for yield stress had an output for a lower minimum diameter required of 17.39mm. While the design for maximum deflection had a height value of 20.71mm. Like previously the higher height value was chosen to prevent permanent deformation and elongation past 0.30mm. The area for feature 2 came out to be 724.98mm^2 using the height calculated for feature 2.
+To create my second feature the process was identical to create feature 1. I chose the same material, ABS, with the same yield strength and modulus of elasticity. Initially I had chosen a length of 60mm to cover most of the motor, but later on I changed that to reduce the height for feature 2. Therefore, I went with a length of 40mm by a base of 35mm. After figuring it out I calculated moment 2 to be 300N multiplied by (40mm+18mm) which is the perpendicular distance from point A to the force. Like previous the design for yield stress had an output for a lower minimum diameter required of 17.39mm. While the design for maximum deflection had a height value of 20.71mm. Like previously the higher height value was chosen to prevent permanent deformation and elongation past 0.30mm. The area for feature 2 came out to be 724.98mm^2 using the height calculated for feature 2.
 
 ## Sketch
 
@@ -73,6 +73,10 @@ After, I was done with all the extruded cuts in feature 1 I moved onto finishing
 ![My Image](a4final.png)
 
 With that the CAD model of the motor mount is complete.
+
+## Geometric Reasoning
+
+The reason I chose the lowest yield stress and modulus of elasticity was to make the motor mount safest I can under the same load. As previously stated, to make calculations simple a square shape dimension was selected. Also, like determined a motor mount doesn't need to fully cover the engine to fulfill its purpose. Also, since I don't want the height to be an extreme value I decided to lower the length of feature 2. In the formula reducing the length reduces the bending moment and significantly lowers the value of length squared within the numerator of the equation. So, to make a motor mount appealing to others I reduced the length to reduce the height while still fulfilling the condition of max deflection.
 
 ## Lesson Learned
 
