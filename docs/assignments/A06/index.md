@@ -8,7 +8,7 @@ This week's assignment is a continuation from last week designing the bracket by
 <img width="323" height="238" alt="image" src="https://github.com/user-attachments/assets/80380ced-5200-493e-80d9-730bc15f2751" />
 
 ## Parametric Design
-From last week the goal was to find a dimension that would satisfy a deflection under 0.005in and a dimension that wouldn't fail under stress by using the yield stress of the material. Below are the multiview drawings of both the Stress and Stiffness Analysis, the greater value for each feature is the dimension that will be used in the CAD model design to assure satisfaction to both conditions.
+From last week the goal was to find a dimension that would satisfy a deflection under 0.005in and a dimension that wouldn't fail under stress by using the yield stress of the material. Below are the multiview drawings of both the Stress and Stiffness Analysis, the greater value for each feature is the dimension that will be used in the CAD model design to assure satisfaction to both conditions. Also, since the goal is to satisfy both the stress and deflection condition the final design will contain dimensions from both the Stress Analysis and the Stiffness Analysis.
 
 ![My Image](stressmulti.png)
 
