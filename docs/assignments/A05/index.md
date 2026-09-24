@@ -31,6 +31,8 @@ Design using a safety factor of 4 and applied load in between 500 lbf < F < 800 
 
 ## Stress Analysis
 
+First of all, for this assignment I chose the material Steel (ASTM A36). I researched the property materials from [here](https://beamdimensions.com/materials/Steel/ASTM/ASTM_A36/#google_vignette), so I would be able to do the stress and deflection analysis. For each feature I listed the knowns and the assumptions made. For every feature it was assumed that it wouldn't fail to shear stress. Additionally, for feature A I assumed the length to be 1/4 greater than the length of the strap. Also, for feature A the cylinder was treated as a cantilever beam Therefore, a distinct formula was used to calculate the section moduli (z) first, then use the z value to find the radius of the cylinder.
+
 ![My Image](featurea.png)
 
 
@@ -62,7 +64,9 @@ Design using a safety factor of 4 and applied load in between 500 lbf < F < 800 
 
 ![My Image](deflectdraw.png)
 
+## Engineering Lesson
 
+## 2157 Fits
 ![My Image](2157a5.png)
 
 
