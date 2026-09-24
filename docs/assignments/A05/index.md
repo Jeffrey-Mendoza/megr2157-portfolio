@@ -29,6 +29,50 @@ Design using a safety factor of 4 and applied load in between 500 lbf < F < 800 
 <img width="323" height="238" alt="image" src="https://github.com/user-attachments/assets/d809f853-9749-4d50-9fad-f69831af9b97" />
 <img width="382" height="345" alt="image" src="https://github.com/user-attachments/assets/69b9d846-140c-4839-ac70-17675675e406" />
 
+![My Image](featurea.png)
+
+
+![My Image](stressb.png)
+
+
+![My Image](featurec.png)
+
+
+![My Image](stressde.png)
+
+
+![My Image](stressmulti.png)
+
+
+![My Image](stiffa.png)
+
+
+![My Image](stiffb.png)
+
+
+![My Image](stiffcd.png)
+
+
+![My Image](stiffe.png)
+
+
+![My Image](deflectdraw.png)
+
+
+![My Image](2157a5.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
