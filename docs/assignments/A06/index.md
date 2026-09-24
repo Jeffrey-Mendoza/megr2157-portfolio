@@ -7,7 +7,7 @@ This week's assignment is a continuation from last week designing the bracket by
 <img width="323" height="238" alt="image" src="https://github.com/user-attachments/assets/80380ced-5200-493e-80d9-730bc15f2751" />
 
 ## Parametric Design
-![My Image](multistress.png)
+![My Image](stressmulti.png)
 
 ![My Image](deflectdraw.png)
 
