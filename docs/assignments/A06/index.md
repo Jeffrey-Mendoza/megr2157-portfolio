@@ -14,6 +14,10 @@ From last week the goal was to find a dimension that would satisfy a deflection 
 
 ![My Image](deflectdraw.png)
 
+Also, since feature A has a link, I had chosen an RC4 fit so it could fit pretty smoothly.
+
+![My Image](chart.png)
+
 
 
 
