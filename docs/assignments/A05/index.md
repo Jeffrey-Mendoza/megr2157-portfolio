@@ -79,10 +79,10 @@ For this part of the assignment, I decided to continue using Steel as the materi
 
 Feature A:
 
-The fit for feature A must be a running/sliding fit, so I chose an RC4 because it is a "close-running" fit meaning it has some but limited freedom to move. For within my diameter size (0.9446in), range 0.71-1.19, and choosing a RC4 fit the tolerance for the hole is +0.002 to 0 and for the shaft -0.008 to -0.016. With a hole product H8 and shaft production f7. The manufacturing process would be to drill undersize, ream to size on a CNC Lathe.
+The fit for feature A must be a running/sliding fit, so I chose an RC4 because it is a "close-running" fit meaning it has some but limited freedom to move. For within my diameter size (0.9446in), range 0.71-1.19, and choosing a RC4 fit the tolerance for the hole is +0.002 to 0 and for the shaft -0.008 to -0.016. With a hole product H8 and shaft production f7. The manufacturing process would be to drill undersize, ream to size on a CNC Lathe using a toolholder.
 
 1.0in Shaft:
 
-For the 1.0in shaft the design must be with light assembly pressure.
+For the 1.0in shaft the design must be with light assembly pressure. Therefore, I selected a FN1 fit and since the diameter of the circle is 1.0in it is still within the 0.71-1.19 range. The hole H6 tolerance is +0.005 to 0 and for the shaft n5 the tolerance is +1.00 to +0.500. The manufacturing process for an LN1 fit I would select is turning on a high precision machine.
 
 
