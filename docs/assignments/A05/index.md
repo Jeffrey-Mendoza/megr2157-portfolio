@@ -75,6 +75,14 @@ From this assignment I learned to think critically when designing a product that
 ## 2157 Fits
 ![My Image](2157a5.png)
 
-For this part of the assignment, I decided to continue using Steel as the material with the same force applied of 750lbf. Additionally, I decided to make the length of the link 2in and the height 1.5in so that the width(thickness) wouldn't be similar value to that of the height. After performing calculations to find minimum the cross-sectional area and width it was observed that the Stress Analysis governed. The Stress Analysis calculations had a higher cross-sectional area and width, letting me know it's the value needed in the design to withstand the forces.
+For this part of the assignment, I decided to continue using Steel as the material with the same force applied of 750lbf. The top diameter of the circle is the diameter of feature A, 0.9446in. Additionally, I decided to make the length of the link 2in and the height 1.5in so that the width(thickness) wouldn't be similar value to that of the height. After performing calculations to find minimum the cross-sectional area and width it was observed that the Stress Analysis governed. The Stress Analysis calculations had a higher cross-sectional area and width, letting me know it's the value needed in the design to withstand the forces.
+
+Feature A:
+
+The fit for feature A must be a running/sliding fit, so I chose an RC4 because it is a "close-running" fit meaning it has some but limited freedom to move. For within my diameter size (0.9446in), range 0.71-1.19, and choosing a RC4 fit the tolerance for the hole is +0.002 to 0 and for the shaft -0.008 to -0.016. With a hole product H8 and shaft production f7. The manufacturing process would be to drill undersize, ream to size on a CNC Lathe.
+
+1.0in Shaft:
+
+For the 1.0in shaft the design must be with light assembly pressure.
 
 
