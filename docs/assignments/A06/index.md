@@ -14,7 +14,7 @@ From last week the goal was to find a dimension that would satisfy a deflection 
 
 ![My Image](deflectdraw.png)
 
-Also, since feature A has a link, I had chosen an RC4 fit so it could fit pretty smoothly.
+Also, since feature A has a link, I had chosen an RC4 fit so it could fit pretty smoothly. Therefore, the shaft (cylinder) for feature A has a tolerance of -0.008 to -0.016
 
 ![My Image](chart.png)
 
