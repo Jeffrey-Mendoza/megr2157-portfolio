@@ -31,7 +31,7 @@ Design using a safety factor of 4 and applied load in between 500 lbf < F < 800 
 
 ## Stress Analysis
 
-First of all, for this assignment I chose the material Steel (ASTM A36). I researched the property materials from [here](https://beamdimensions.com/materials/Steel/ASTM/ASTM_A36/#google_vignette), so I would be able to do the stress and deflection analysis. For each feature I listed the knowns and the assumptions made. For every feature it was assumed that it wouldn't fail to shear stress. Additionally, for feature A I assumed the length to be 1/4 greater than the length of the strap. Also, for feature A the cylinder was treated as a cantilever beam Therefore, a distinct formula was used to calculate the section moduli (z) first, then use the z value to find the radius of the cylinder. Feature C had another distinct formula, due to the bending that it experiences, where I had to solve for the section moduli first and then input into another formula. For the other 3 features I used the formula of the force times the safety factor divided by A equals the yield stress. Rearranging for cross-sectional area and later using the area value to find the unknown height, length, or width by equaling the cross-sectional area to the formula for the geometric shape.
+First of all, for this assignment I chose the material Steel (ASTM A36). I researched the property materials from [here](https://beamdimensions.com/materials/Steel/ASTM/ASTM_A36/#google_vignette), so I would be able to do the stress and deflection analysis. I made sure to convert before doing calculations so the final answer would be accurate. For each feature I listed the knowns and the assumptions made. For every feature it was assumed that it wouldn't fail to shear stress. Additionally, for feature A I assumed the length to be 1/4 greater than the length of the strap. Also, for feature A the cylinder was treated as a cantilever beam Therefore, a distinct formula was used to calculate the section moduli (z) first, then use the z value to find the radius of the cylinder. Feature C had another distinct formula, due to the bending that it experiences, where I had to solve for the section moduli first and then input into another formula. For the other 3 features I used the formula of the force times the safety factor divided by A equals the yield stress. Rearranging for cross-sectional area and later using the area value to find the unknown height, length, or width by equaling the cross-sectional area to the formula for the geometric shape.
 
 ![My Image](featurea.png)
 
@@ -46,6 +46,8 @@ First of all, for this assignment I chose the material Steel (ASTM A36). I resea
 
 ## Stiffness Analysis
 
+For the Stiffness Analysis the process was very identical to the Stress Analysis. the main difference was the change in formulas.
+
 ![My Image](stiffa.png)
 
 
@@ -59,12 +61,16 @@ First of all, for this assignment I chose the material Steel (ASTM A36). I resea
 
 ## Multiview Drawings
 
+These are the multiview drawings, one for Stress Analysis and one for Stiffness Analysis, of the top, front, and left view. Both multiview drawings are dimensionalized to view the different dimensions calculated from the Stress Analysis and the Stiffness Analysis.
+
 ![My Image](stressmulti.png)
 
 
 ![My Image](deflectdraw.png)
 
 ## Engineering Lesson
+
+From this assignment I learned to think critically when designing a product that needs some specific dimensions. I learned how to incorporate specific dimensions, my own, and to calculate for another using two different types of tests, Stress and Stiffness Analysis. For feature A the Stress Analysis governs because it's a greater value compared to the value result from the Stiffness Analysis. The greater value governs because it will not fail under stress nor deformation. My radius diameter from the Stress Analysis is 0.4723in compared to 0.275in from the Stiffness Analysis, the Stress Analysis yielded a value almost 2 times greater. At first, I had made length of feature C and D different, then I realized that they must be the same. This is essential because different scenarios lead to different end values. Throughout all the calculations it was assumed the material was Steel (ASTM A36), wouldn't fail to shear stress, bracket is supported by one side, and that the load was evenly distributed. Expected for feature C where we were told about a concentrated load at the center. If I changed my assumptions my final answer would have to be reevaluated. For example, if I were to assume the bracket is supported by two rigid walls the formulas would change, therefore, lead to different calculations.
 
 ## 2157 Fits
 ![My Image](2157a5.png)
