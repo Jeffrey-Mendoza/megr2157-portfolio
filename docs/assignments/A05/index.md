@@ -46,7 +46,7 @@ First of all, for this assignment I chose the material Steel (ASTM A36). I resea
 
 ## Stiffness Analysis
 
-For the Stiffness Analysis the process was very identical to the Stress Analysis. the main difference was the change in formulas.
+For the Stiffness Analysis the process was very identical to the Stress Analysis. The main difference was the change in formulas but still solving for cross-sectional area and then the unknown dimension.
 
 ![My Image](stiffa.png)
 
