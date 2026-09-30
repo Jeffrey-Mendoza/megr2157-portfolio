@@ -20,6 +20,8 @@ From last week the goal was to find a dimension that would satisfy a deflection 
 
 After analyzing both the dimension values from the stress and stiffness analyzing 4 of the 5 calculated dimensions came from the stress analysis, always choosing the greater value.
 
+## Bracket CAD Model
+
 ![My Image](globalbd.png)
 
 Then, I launched SolidWorks to input the assumed dimensions and calculated dimensions into the global variable feature.
@@ -40,9 +42,12 @@ For feature B I cut extruded 1 in so feature B width could be 0.0875
 
 The final CAD model of the bracket design.
 
+## Bracket Multiview Drawing
+
 ![My Image](bdmulti.png)
 
 The multiview drawing of the bracket design. Also, since feature A has a link, I had chosen an RC4 fit so it could fit pretty smoothly. Therefore, the shaft (cylinder) for feature A has a tolerance of -0.008 to -0.016. Additionally, I added tolerances to 3 other tolerances, for the t design.
+
 ## Bracket Reflection
 
 Since the only feature in which stiffness governed was feature E there was only one stiffness calculation used for the final design. This specific dimension calculated for feature E controlled the width of the feature. All the calculated dimensions using the stiffness and stress analysis in the final design was inputted into SolidWorks expressed as an equation using the "equation" feature. The CAD calculation and the handwritten calculation were identical. For the bracket design 4 tolerances were applied, feature A diameter has a sliding fit of RC4, so it had a tolerance of -0.008 to -0.016. On the other hand, the height of feature C had a tighter fit, due to accuracy being necessary, so the tolerance is +0.005 to 0.000. Since feature C is the only dimension that needs high accuracy, this was the only on with a tight tolerance. If I would've added additional tight tolerances the price to manufacture would increase.
@@ -51,9 +56,13 @@ Since the only feature in which stiffness governed was feature E there was only 
 
 ![My Image](globallink.png)
 
+## Link CAD Model
+
 ![My Image](linkextrude.png)
 
 ![My Image](linkfinal.png)
+
+## Link Multiview Drawing
 
 ![My Image](linkmulti.png)
 
