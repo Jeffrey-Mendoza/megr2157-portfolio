@@ -18,6 +18,17 @@ Also, since feature A has a link, I had chosen an RC4 fit so it could fit pretty
 
 ![My Image](chart.png)
 
+globalbd.png
+parametricbd.png
+ginputbd.png
+bdcutnextrude.png
+globallink.png
+linkextrude.png
+linkfinal.png
+linkmulti.png
+bdmulti.png
+finalpara.png
+
 
 
 
