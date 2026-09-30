@@ -16,7 +16,7 @@ From last week the goal was to find a dimension that would satisfy a deflection 
 
 ## Final Parametric Design Selection
 
-[My Image](finalpara.png)
+![My Image](finalpara.png)
 
 After analyzing both the dimension values from the stress and stiffness analyzing 4 of the 5 calculated dimensions came from the stress analysis, always choosing the greater value.
 
