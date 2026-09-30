@@ -56,6 +56,8 @@ Since the only feature in which stiffness governed was feature E there was only 
 
 ![My Image](globallink.png)
 
+For the 
+
 ## Link CAD Model
 
 ![My Image](linkextrude.png)
@@ -67,4 +69,6 @@ Since the only feature in which stiffness governed was feature E there was only 
 ![My Image](linkmulti.png)
 
 ## Linkage Reflection
+
+[SolidWorks Download](https://1drv.ms/f/c/a88588ba91baf92a/IgD6FAQw-FsYRpZENr3aiTwrAQUuqCoko4gQsBDbDYxFrYI?e=QeQji2)
 
