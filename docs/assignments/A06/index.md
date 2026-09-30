@@ -18,23 +18,23 @@ Also, since feature A has a link, I had chosen an RC4 fit so it could fit pretty
 
 ![My Image](chart.png)
 
+![My Image](finalpara.png)
+
 ![My Image](globalbd.png)
 ![My Image](parametricbd.png)
 ![My Image](ginputbd.png)
 ![My Image](bdcutnextrude.png)
 ![My Image](globallink.png)
 ![My Image](linkextrude.png)
-![My Image](linkfinal.png)
-![My Image](linkmulti.png)
 ![My Image](bdmulti.png)
-![My Image](finalpara.png)
 
+## Bracket Reflection
 
-## Analyze
+## 2157 Link
 
+![My Image](linkfinal.png)
 
-## Decide
+![My Image](linkmulti.png)
 
-
-## Communicate
+## Linkage Reflection
 
