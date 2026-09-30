@@ -36,10 +36,16 @@ I had extruded the entire design 1 in, the length of feature top bracket. Theref
 
 For feature B I cut extruded 1 in so feature B width could be 0.0875
 
+![My Image](finalbd.png)
+
+The final CAD model of the bracket design.
+
 ![My Image](bdmulti.png)
 
-Also, since feature A has a link, I had chosen an RC4 fit so it could fit pretty smoothly. Therefore, the shaft (cylinder) for feature A has a tolerance of -0.008 to -0.016
+The multiview drawing of the bracket design. Also, since feature A has a link, I had chosen an RC4 fit so it could fit pretty smoothly. Therefore, the shaft (cylinder) for feature A has a tolerance of -0.008 to -0.016. Additionally, I added tolerances to 3 other tolerances, for the t design.
 ## Bracket Reflection
+
+Since the only feature in which stiffness governed was feature E there was only one stiffness calculation used for the final design. This specific dimension calculated for feature E controlled the width of the feature. All the calculated dimensions using the stiffness and stress analysis in the final design was inputted into SolidWorks expressed as an equation using the "equation" feature. The CAD calculation and the hand written calculation were identical.
 
 ## 2157 Link
 
