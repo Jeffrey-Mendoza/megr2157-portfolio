@@ -14,23 +14,26 @@ From last week the goal was to find a dimension that would satisfy a deflection 
 
 ![My Image](deflectdraw.png)
 
-Also, since feature A has a link, I had chosen an RC4 fit so it could fit pretty smoothly. Therefore, the shaft (cylinder) for feature A has a tolerance of -0.008 to -0.016
-
-![My Image](chart.png)
-
 ![My Image](finalpara.png)
 
-![My Image](globalbd.png)
+![My Image](globalbd.png
+
 ![My Image](parametricbd.png)
+
 ![My Image](ginputbd.png)
+
 ![My Image](bdcutnextrude.png)
-![My Image](globallink.png)
-![My Image](linkextrude.png)
+
 ![My Image](bdmulti.png)
 
+Also, since feature A has a link, I had chosen an RC4 fit so it could fit pretty smoothly. Therefore, the shaft (cylinder) for feature A has a tolerance of -0.008 to -0.016
 ## Bracket Reflection
 
 ## 2157 Link
+
+![My Image](globallink.png)
+
+![My Image](linkextrude.png)
 
 ![My Image](linkfinal.png)
 
