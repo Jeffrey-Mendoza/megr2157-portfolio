@@ -78,5 +78,6 @@ For this linkage part I had put two custom tolerances for the two desired fits.
 
 From this extra part of adding a link to the bracket I was able to learn about the importance of tolerance for fitting different parts together. It made me realize that 2 different parts that go together can't be of the same size, one has to be bigger (hole) and the other part needs to be slightly smaller (shaft). The positive tolerance on the hole ensures that the hole will remain bigger than the shaft after manufacture. By inputting alphanumeric tolerance designations for the manufacturer to know what it is that I desire on my part.
 
+## SolidWorks Download
 [SolidWorks Download](https://1drv.ms/f/c/a88588ba91baf92a/IgD6FAQw-FsYRpZENr3aiTwrAQUuqCoko4gQsBDbDYxFrYI?e=QeQji2)
 
