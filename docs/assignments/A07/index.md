@@ -26,6 +26,13 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 
 ## Analyze
 
+| Design 1|
+|                     | Test 1 | Test 2 | Test 3
+| Max Stress          | --- | ---| ---|
+| Max Stress Location | --- | ---| ---|
+| Max Displacement | Show file differences that **haven't been** staged |
+| Max Displacement Location| --- | --- | ---|
+
 
 ## Decide
 
