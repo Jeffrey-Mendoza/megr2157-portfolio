@@ -26,12 +26,20 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 
 ## Analyze
 
-| Design 1| Test 1 | Test 2 | Test 3|
+
+![My Image](FEAforce.png)
+![My Image](defmesh.png)
+![My Image](FEAforce.png)
+
+| Design 1| Test 1 (Coarse) | Test 2 (Default) | Test 3 (Fine)|
 |  :--- | :--- | :--- | :---|
 | Max Stress    | --- | ---| ---|
-| Max Stress Location | --- | ---| ---|
-| Max Displacement | ---| ---| ---|
-| Max Displacement Location| --- | --- | --- |
+| Max Stress Location | ![My Image](originalstresscoarsemesh.png) | ![My Image](originalstressdefmesh.png)| ![My Image](originalstressfinemesh.png)|
+| Max Displacement | --- | ---| ---|
+| Max Displacement Location| ![My Image](originaldelfectioncoarsemesh.png) | ![My Image](originaldeflectiondefmesh.png) | ![My Image](originaldeflectionfinemesh.png) |
+| Mass | ---  | --- | --- |
+|Min Factor of Safety| --- | --- | --- |
+|FOS location| ![My Image](originalfoscoarsemesh.png) | ![My Image](originalfosdefmesh.png) | ![My Image](originalfosfinemesh.png) |
 
 | Design 2| Test 1 | Test 2 | Test 3|
 |  :--- | :--- | :--- | :---|
@@ -39,6 +47,9 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 | Max Stress Location | --- | ---| ---|
 | Max Displacement | ---| ---| ---|
 | Max Displacement Location| --- | --- | --- |
+| Mass | ---  | --- | --- |
+|Min Factor of Safety| --- | --- | --- |
+|FOS location| --- | --- | ---|
 
 | Design 3| Test 1 | Test 2 | Test 3|
 |  :--- | :--- | :--- | :---|
@@ -46,6 +57,9 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 | Max Stress Location | --- | ---| ---|
 | Max Displacement | ---| ---| ---|
 | Max Displacement Location| --- | --- | --- |
+| Mass | ---  | --- | --- |
+|Min Factor of Safety| --- | --- | --- |
+|FOS location| --- | --- | ---|
 
 ## Decide
 
