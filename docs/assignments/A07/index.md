@@ -33,7 +33,7 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 
 | Design 1| Test 1 (Coarse) | Test 2 (Default) | Test 3 (Fine)|
 |  :--- | :--- | :--- | :---|
-| Max Stress    | --- | ---| ---|
+| Max Stress    | 3.306e+09N/m^2 | 3.619e+09N/m^2 | 4.360e+09N/m^2 |
 | Max Stress Location | ![My Image](originalstresscoarsemesh.png) | ![My Image](originalstressdefmesh.png)| ![My Image](originalstressfinemesh.png)|
 | Max Displacement | --- | ---| ---|
 | Max Displacement Location| ![My Image](originaldeflectioncoarsemesh.png) | ![My Image](originaldeflectiondefmesh.png) | ![My Image](originaldelfectionfinemesh.png) |
