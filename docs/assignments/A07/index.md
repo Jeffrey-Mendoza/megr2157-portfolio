@@ -32,7 +32,8 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 | Max Stress Location | --- | ---| ---|
 | Max Displacement | Show file differences that **haven't been** staged |
 | Max Displacement Location| --- | --- | ---|
-
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
 
 ## Decide
 
