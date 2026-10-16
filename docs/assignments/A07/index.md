@@ -31,14 +31,14 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 ![My Image](defmesh.png)
 ![My Image](FEAforce.png)
 
-| Design 1| Test 1 (Coarse) | Test 2 (Default) | Test 3 (Fine)|
+| Design 1| Test 1 (Coarse  Mesh) | Test 2 (Default  Mesh) | Test 3 (Fine Mesh)|
 |  :--- | :--- | :--- | :---|
 | Max Stress    | 3.306e+09N/m^2 | 3.619e+09N/m^2 | 4.360e+09N/m^2 |
 | Max Stress Location | ![My Image](originalstresscoarsemesh.png) | ![My Image](originalstressdefmesh.png)| ![My Image](originalstressfinemesh.png)|
-| Max Displacement | --- | ---| ---|
+| Max Displacement | 3.848e+01mm | 3.892e+01mm | 3.928e+01mm|
 | Max Displacement Location| ![My Image](originaldeflectioncoarsemesh.png) | ![My Image](originaldeflectiondefmesh.png) | ![My Image](originaldelfectionfinemesh.png) |
 | Mass(lbs.) | 0.77 | 0.77 | 0.77 |
-|Min Factor of Safety| --- | --- | --- |
+|Min Factor of Safety| 7.561e-02 | 6.908e-02 | 5.734e-02 |
 |FOS location| ![My Image](originalfoscoarsemesh.png) | ![My Image](originalfosdefmesh.png) | ![My Image](originalfosfinemesh.png) |
 
 | Design 2| Test 1 | Test 2 | Test 3|
