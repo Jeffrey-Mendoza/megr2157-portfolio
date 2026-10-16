@@ -33,6 +33,20 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 | Max Displacement | ---| ---| ---|
 | Max Displacement Location| --- | --- | --- |
 
+| Design 2| Test 1 | Test 2 | Test 3|
+|  :--- | :--- | :--- | :---|
+| Max Stress    | --- | ---| ---|
+| Max Stress Location | --- | ---| ---|
+| Max Displacement | ---| ---| ---|
+| Max Displacement Location| --- | --- | --- |
+
+| Design 3| Test 1 | Test 2 | Test 3|
+|  :--- | :--- | :--- | :---|
+| Max Stress    | --- | ---| ---|
+| Max Stress Location | --- | ---| ---|
+| Max Displacement | ---| ---| ---|
+| Max Displacement Location| --- | --- | --- |
+
 ## Decide
 
 
