@@ -36,7 +36,7 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 | Max Stress    | --- | ---| ---|
 | Max Stress Location | ![My Image](originalstresscoarsemesh.png) | ![My Image](originalstressdefmesh.png)| ![My Image](originalstressfinemesh.png)|
 | Max Displacement | --- | ---| ---|
-| Max Displacement Location| ![My Image](originaldelfectioncoarsemesh.png) | ![My Image](originaldeflectiondefmesh.png) | ![My Image](originaldeflectionfinemesh.png) |
+| Max Displacement Location| ![My Image](originaldeflectioncoarsemesh.png) | ![My Image](originaldeflectiondefmesh.png) | ![My Image](originaldelfectionfinemesh.png) |
 | Mass | ---  | --- | --- |
 |Min Factor of Safety| --- | --- | --- |
 |FOS location| ![My Image](originalfoscoarsemesh.png) | ![My Image](originalfosdefmesh.png) | ![My Image](originalfosfinemesh.png) |
