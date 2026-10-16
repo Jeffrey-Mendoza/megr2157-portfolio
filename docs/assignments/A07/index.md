@@ -40,6 +40,10 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 | Mass(lbs.) | 0.77 | 0.77 | 0.77 |
 |Min Factor of Safety| 7.561e-02 | 6.908e-02 | 5.734e-02 |
 |FOS location| ![My Image](originalfoscoarsemesh.png) | ![My Image](originalfosdefmesh.png) | ![My Image](originalfosfinemesh.png) |
+| Number of Elements| --- | --- | --- |
+|Convergence Stress| --- | --- | --- |
+|Convergence Deflection| --- | --- | --- |
+|Convergence Safety Factor| --- | --- | --- |
 
 | Design 2| Test 1 | Test 2 | Test 3|
 |  :--- | :--- | :--- | :---|
@@ -50,6 +54,10 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 | Mass | ---  | --- | --- |
 |Min Factor of Safety| --- | --- | --- |
 |FOS location| --- | --- | ---|
+| Number of Elements| --- | --- | --- |
+|Convergence Stress| --- | --- | --- |
+|Convergence Deflection| --- | --- | --- |
+|Convergence Safety Factor| --- | --- | --- |
 
 | Design 3| Test 1 | Test 2 | Test 3|
 |  :--- | :--- | :--- | :---|
@@ -60,6 +68,10 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 | Mass | ---  | --- | --- |
 |Min Factor of Safety| --- | --- | --- |
 |FOS location| --- | --- | ---|
+| Number of Elements| --- | --- | --- |
+|Convergence Stress| --- | --- | --- |
+|Convergence Deflection| --- | --- | --- |
+|Convergence Safety Factor| --- | --- | --- |
 
 ## Decide
 
