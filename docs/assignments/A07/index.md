@@ -41,7 +41,7 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 |Min Factor of Safety| 7.561e-02 | 6.908e-02 | 5.734e-02 |
 |FOS location| ![My Image](originalfoscoarsemesh.png) | ![My Image](originalfosdefmesh.png) | ![My Image](originalfosfinemesh.png) |
 | Number of Elements| 1533 | 8391 | 52197 |
-|Convergence Stress|  | --- | --- |
+|Convergence Stress|  | 9.47% | 20.48% |
 |Convergence Deflection| --- | --- | --- |
 |Convergence Safety Factor| --- | --- | --- |
 
@@ -49,12 +49,12 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 |  :--- | :--- | :--- | :---|
 | Max Stress    | --- | 2.690e+08N/m^2 | ---|
 | Max Stress Location | --- | ---| ---|
-| Max Displacement | ---| ---| ---|
+| Max Displacement | ---| 1.506e-01mm| ---|
 | Max Displacement Location| --- | --- | --- |
 | Mass | ---  | --- | --- |
-|Min Factor of Safety| --- | --- | --- |
+|Min Factor of Safety| --- | 9.293e-01 | --- |
 |FOS location| --- | --- | ---|
-| Number of Elements| --- | --- | --- |
+| Number of Elements| --- | 8361 | --- |
 |Convergence Stress| --- | --- | --- |
 |Convergence Deflection| --- | --- | --- |
 |Convergence Safety Factor| --- | --- | --- |
