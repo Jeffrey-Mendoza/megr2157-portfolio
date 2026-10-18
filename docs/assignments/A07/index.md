@@ -47,14 +47,14 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 
 | Design 2| Test 1 | Test 2 | Test 3|
 |  :--- | :--- | :--- | :---|
-| Max Stress    | --- | 2.690e+08N/m^2 | ---|
+| Max Stress    | 1.953e+08N/m^2 | 2.690e+08N/m^2 | 6.799e+08N/m^2|
 | Max Stress Location | --- | ---| ---|
-| Max Displacement | ---| 1.506e-01mm| ---|
+| Max Displacement | 1.442e-01mm | 1.506e-01mm| 1.529e-01mm |
 | Max Displacement Location| --- | --- | --- |
-| Mass | ---  | --- | --- |
-|Min Factor of Safety| --- | 9.293e-01 | --- |
+| Mass (lbs) | 0.86  | 0.86 | 0.86 |
+|Min Factor of Safety| 1.280e+00 | 9.293e-01 | 3.677e-01 |
 |FOS location| --- | --- | ---|
-| Number of Elements| --- | 8361 | --- |
+| Number of Elements| 1670 | 8361 | 56807 |
 |Convergence Stress| --- | --- | --- |
 |Convergence Deflection| --- | --- | --- |
 |Convergence Safety Factor| --- | --- | --- |
