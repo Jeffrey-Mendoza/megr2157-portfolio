@@ -47,7 +47,7 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 
 | Design 2| Test 1 | Test 2 | Test 3|
 |  :--- | :--- | :--- | :---|
-| Max Stress    | --- | ---| ---|
+| Max Stress    | --- | 2.690e+08N/m^2 | ---|
 | Max Stress Location | --- | ---| ---|
 | Max Displacement | ---| ---| ---|
 | Max Displacement Location| --- | --- | --- |
