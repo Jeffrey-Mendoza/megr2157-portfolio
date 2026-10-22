@@ -41,8 +41,8 @@ Firstly, the orginal design was tested to see how it performs with the expected 
 |FOS location| ![My Image](originalfoscoarsemesh.png) | ![My Image](originalfosdefmesh.png) | ![My Image](originalfosfinemesh.png) |
 | Number of Elements| 1533 | 8391 | 52197 |
 |Convergence Stress| NA | 9.47% | 20.48% |
-|Convergence Deflection| NA | --- | --- |
-|Convergence Safety Factor| NA | --- | --- |
+|Convergence Deflection| NA | 1.14% | 0.92% |
+|Convergence Safety Factor| NA | 8.64% | 17% |
 
 For this design I had though some ribs connected to the sides of the clyinder could help the load to distribute up on the bracket.
 
@@ -56,9 +56,9 @@ For this design I had though some ribs connected to the sides of the clyinder co
 |Min Factor of Safety| 1.280e+00 | 9.293e-01 | 3.677e-01 |
 |FOS location| ![My Image](design2foscoarsemesh.png) | ![My Image](design2fosdefmesh.png) | ![My Image](design2fosfinemesh.png) |
 | Number of Elements| 1670 | 8361 | 56807 |
-|Convergence Stress| NA | --- | --- |
-|Convergence Deflection| NA | --- | --- |
-|Convergence Safety Factor| NA | --- | --- |
+|Convergence Stress| NA | 37.74% | 152.75% |
+|Convergence Deflection| NA | 4.44% | 1.53% |
+|Convergence Safety Factor| NA | 27.4% | 60.43% |
 
 For the last design I made an immense number of changes, I made a lot of cutout sections with fillets intending to reduce mass while increasing safety factor. Additionally, I made tapered ribs for load distribution, increased the width of the bracket sides
 
@@ -72,9 +72,9 @@ For the last design I made an immense number of changes, I made a lot of cutout 
 |Min Factor of Safety| 1.427e+00 | 1.391e+00 | 1.780e+00 |
 |FOS location| ![My Image](design3foscoarsemesh.png) | ![My Image](design3fosdefmesh.png) | ![My Image](design3fosfinemesh.png) |
 | Number of Elements| 8702 | 15537 | 61250 |
-|Convergence Stress| NA | --- | --- |
-|Convergence Deflection| NA | --- | --- |
-|Convergence Safety Factor| NA | --- | --- |
+|Convergence Stress| NA | 2.57% | 21.87% |
+|Convergence Deflection| NA | 0.61%% | 1.35% |
+|Convergence Safety Factor| NA | 2.52% | 27.97% |
 
 ##2157 Link
 
@@ -90,9 +90,9 @@ The original link design was tested to see how well it does without any modifica
 |Min Factor of Safety| 1.169e+00 | 1.148e+00 | 1.146e+00 |
 |FOS location| ![My Image](linkfoscoarsemesh.png) | ![My Image](link1fosdefmesh.png) | ![My Image](link1fosfinemesh.png) |
 | Number of Elements| 1236 | 7179 | 56321 |
-|Convergence Stress| NA | --- | --- |
-|Convergence Deflection| NA | --- | --- |
-|Convergence Safety Factor| NA | --- | --- |
+|Convergence Stress| NA | 1.82% | 0.23% |
+|Convergence Deflection| NA | 0.47% | 0.06% |
+|Convergence Safety Factor| NA | 1.79% | 0.17% |
 
 In attempt to reduce stress concentration I added a layer for distribution where the load was located.
 
@@ -106,9 +106,9 @@ In attempt to reduce stress concentration I added a layer for distribution where
 |Min Factor of Safety| 1.118e+00 | 1.081e+00 | 1.066e+00 |
 |FOS location| ![My Image](link2deflectionfosmesh.png) | ![My Image](link2fosdefmesh.png) | ![My Image](link2fosfinemesh.png) |
 | Number of Elements| 1425 | 7431 | 52900 |
-|Convergence Stress| NA | --- | --- |
-|Convergence Deflection| NA | --- | --- |
-|Convergence Safety Factor| NA | --- | --- |
+|Convergence Stress| NA | 3.40% | 1.47% |
+|Convergence Deflection| NA | 0.55% | 0.16% |
+|Convergence Safety Factor| NA | 3.31% | 1.39% |
 
 Afterwards, I realized that just makes the deflect in the x direction as well now. So, I added another layer on the other side with a thicker part in the center to prevent bending. Additionally, I added some oval holes with fillets where there was no stress to remove mass where it isn't needed.
 
@@ -122,13 +122,13 @@ Afterwards, I realized that just makes the deflect in the x direction as well no
 |Min Factor of Safety| 1.032e+00 | 1.317e+00 | 1.305e+00 |
 |FOS location| ![My Image](3foscoarse.png) | ![My Image](3fosdefmesh.png) | ![My Image](3fosfine.png) |
 | Number of Elements| 2495 | 9065| 57949 |
-|Convergence Stress| NA | --- | --- |
-|Convergence Deflection| NA | --- | --- |
-|Convergence Safety Factor| NA | --- | --- |
+|Convergence Stress| NA | 21.67% | 0.95% |
+|Convergence Deflection| NA | 1.02% | 0.33% |
+|Convergence Safety Factor| NA | 27.62% | 0.91% |
 
 ## Engineering Lesson
 
-Throughout this assignment I discovered and learned how to do static analysis on CAD models that I create to approximate how well it could function in the real world. Additional I learned about the different type of meshes, there are three types: coarse, default, and fine mesh. Finer mesh just breaks the CAD model into smaller geometric shapes; therefore, fine mesh allows for accurate reading especially around complex shapes. Yet more geometric shapes mean it'll take the system to proceed the static analysis. Whereas coarse mesh are bigger geometric shapes, so it is less likely to pick up small high stress sections, so less precise. Also, the computer processes coarse mesh quicker compared to fine mesh. Lastly default mesh is simply a mix of both coarse and fine mesh. Also, I learned tapered ribs and fillets help reduce stress concentrations; therefore it was added to the design attempting to increase safety factor. Analyzing models is something that is exciting to do, I desire to improve at reducing weigh will maintaining stiffness. 
+Throughout this assignment I discovered and learned how to do static analysis on CAD models that I create to approximate how well it could function in the real world. Additional I learned about the different type of meshes, there are three types: coarse, default, and fine mesh. Finer mesh just breaks the CAD model into smaller geometric shapes; therefore, fine mesh allows for accurate reading especially around complex shapes. Yet more geometric shapes mean it'll take the system to proceed the static analysis. Whereas coarse mesh are bigger geometric shapes, so it is less likely to pick up small high stress sections, so less precise. Also, the computer processes coarse mesh quicker compared to fine mesh. Lastly default mesh is simply a mix of both coarse and fine mesh. Also, I learned tapered ribs and fillets help reduce stress concentrations; therefore, it was added to the design attempting to increase safety factor. Analyzing models is something that is exciting to do, I desire to improve at reducing weigh will maintaining stiffness. This assignment took me approximately 5 hours to do.
 
 ## SolidWorks Download
 [SolidWorks Download](https://1drv.ms/f/c/a88588ba91baf92a/IgD6FAQw-FsYRpZENr3aiTwrAQUuqCoko4gQsBDbDYxFrYI?e=QeQji2)
