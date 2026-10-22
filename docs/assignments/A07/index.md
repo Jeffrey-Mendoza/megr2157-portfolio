@@ -130,5 +130,7 @@ Afterwards, I realized that just makes the deflect in the x direction as well no
 
 Throughout this assignment I discovered and learned how to do static analysis on CAD models that I create to approximate how well it could function in the real world. Additional I learned about the different type of meshes, there are three types: coarse, default, and fine mesh. Finer mesh just breaks the CAD model into smaller geometric shapes; therefore, fine mesh allows for accurate reading especially around complex shapes. Yet more geometric shapes mean it'll take the system to proceed the static analysis. Whereas coarse mesh are bigger geometric shapes, so it is less likely to pick up small high stress sections, so less precise. Also, the computer processes coarse mesh quicker compared to fine mesh. Lastly default mesh is simply a mix of both coarse and fine mesh. Also, I learned tapered ribs and fillets help reduce stress concentrations; therefore it was added to the design attempting to increase safety factor. Analyzing models is something that is exciting to do, I desire to improve at reducing weigh will maintaining stiffness. 
 
+## SolidWorks Download
+[SolidWorks Download](https://1drv.ms/f/c/a88588ba91baf92a/IgD6FAQw-FsYRpZENr3aiTwrAQUuqCoko4gQsBDbDYxFrYI?e=QeQji2)
 
 
