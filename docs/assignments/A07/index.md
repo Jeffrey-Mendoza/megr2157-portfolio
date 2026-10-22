@@ -82,7 +82,7 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 | Max Stress Location | ![My Image](link1stresscoarsemesh.png) | ![My Image](link1stressdefmesh.png) | ![My Image](link1stressfinemesh.png) |
 | Max Displacement | 3.620e-02mm | 3.637e-02mm | 3.639e-02mm |
 | Max Displacement Location|  |![My Image](link1deflectioncoarsemesh.png) | ![My Image](link1deflectiondefmesh.png) | ![My Image](link1deflectionfinemesh.png) |
-| Mass(lbs) | 0.02  | 0.02 | 0.02 |
+| Mass(lbs) | 0.14  | 0.14 | 0.14 |
 |Min Factor of Safety| 1.169e+00 | 1.148e+00 | 1.146e+00 |
 |FOS location| ![My Image](linkfoscoarsemesh.png) | ![My Image](link1fosdefmesh.png) | ![My Image](link1fosfinemesh.png) |
 | Number of Elements| 1236 | 7179 | 56321 |
@@ -96,7 +96,7 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 | Max Stress Location | ![My Image](link2stresscoarsemesh.png) | ![My Image](link2stressdefmesh.png) | ![My Image](link2stressfinemesh.png) |
 | Max Displacement | 3.827e-02mm | 3.848e-02mm | 3.842e-02mm |
 | Max Displacement Location|  |![My Image](link2deflectioncoarsemesh.png) | ![My Image](link2deflectiondefmesh.png) | ![My Image](link2deflectionfinemesh.png) |
-| Mass(lbs) | 0.02  | 0.02 | 0.02 |
+| Mass(lbs) | 0.14  | 0.14 | 0.14 |
 |Min Factor of Safety| 1.118e+00 | 1.081e+00 | 1.066e+00 |
 |FOS location| ![My Image](link2deflectionfosmesh.png) | ![My Image](link2fosdefmesh.png) | ![My Image](link2fosfinemesh.png) |
 | Number of Elements| 1425 | 7431 | 52900 |
@@ -106,14 +106,14 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 
 | Design 3| Test 1 | Test 2 | Test 3|
 |  :--- | :--- | :--- | :---|
-| Max Stress    | 1.752e+08N/m^2 | 1.797e+08N/m^2 | 1.404e+08N/m^2 |
+| Max Stress    | 2.423e+08N/m^2 | 1.898e+08N/m^2 | 1.916e+08N/m^2 |
 | Max Stress Location | ![My Image](3stresscoarse.png) | ![My Image](3stressdefmesh.png) | ![My Image](3stressfine.png) |
-| Max Displacement | 3.757e-02mm | 3.780e-02mm | 3.831e-02mm |
+| Max Displacement | 3.625e-02mm | 3.662e-02mm | 3.674e-02mm |
 | Max Displacement Location|  |![My Image](3deflectcoarse.png) | ![My Image](3deflecdefmesh.png) | ![My Image](3deflecfine.png) |
-| Mass(lbs) | 1.31  | 1.31 | 1.31 |
-|Min Factor of Safety| 1.427e+00 | 1.391e+00 | 1.780e+00 |
+| Mass(lbs) | 0.22  | 0.22 | 0.22 |
+|Min Factor of Safety| 1.032e+00 | 1.317e+00 | 1.305e+00 |
 |FOS location| ![My Image](3foscoarse.png) | ![My Image](3fosdefmesh.png) | ![My Image](3fosfine.png) |
-| Number of Elements| 8702 | 15537 | 61250 |
+| Number of Elements| 2495 | 9065| 57949 |
 |Convergence Stress| NA | --- | --- |
 |Convergence Deflection| NA | --- | --- |
 |Convergence Safety Factor| NA | --- | --- |
