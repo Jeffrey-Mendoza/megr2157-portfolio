@@ -85,7 +85,7 @@ The original link design was tested to see how well it does without any modifica
 | Max Stress    | 2.138e+08N/m^2 | 2.177e+08N/m^2 | 2.182e+08N/m^2 |
 | Max Stress Location | ![My Image](link1stresscoarsemesh.png) | ![My Image](link1stressdefmesh.png) | ![My Image](link1stressfinemesh.png) |
 | Max Displacement | 3.620e-02mm | 3.637e-02mm | 3.639e-02mm |
-| Max Displacement Location|  |![My Image](link1deflectioncoarsemesh.png) | ![My Image](link1deflectiondefmesh.png) | ![My Image](link1deflectionfinemesh.png) |
+| Max Displacement Location| ![My Image](link1deflectioncoarsemesh.png) | ![My Image](link1deflectiondefmesh.png) | ![My Image](link1deflectionfinemesh.png) |
 | Mass(lbs) | 0.14  | 0.14 | 0.14 |
 |Min Factor of Safety| 1.169e+00 | 1.148e+00 | 1.146e+00 |
 |FOS location| ![My Image](linkfoscoarsemesh.png) | ![My Image](link1fosdefmesh.png) | ![My Image](link1fosfinemesh.png) |
@@ -101,7 +101,7 @@ In attempt to reduce stress concentration I added a layer for distribution where
 | Max Stress    | 2.236e+08N/m^2 | 2.312e+08N/m^2 | 2.346e+08N/m^2 |
 | Max Stress Location | ![My Image](link2stresscoarsemesh.png) | ![My Image](link2stressdefmesh.png) | ![My Image](link2stressfinemesh.png) |
 | Max Displacement | 3.827e-02mm | 3.848e-02mm | 3.842e-02mm |
-| Max Displacement Location|  |![My Image](link2deflectioncoarsemesh.png) | ![My Image](link2deflectiondefmesh.png) | ![My Image](link2deflectionfinemesh.png) |
+| Max Displacement Location| ![My Image](link2deflectioncoarsemesh.png) | ![My Image](link2deflectiondefmesh.png) | ![My Image](link2deflectionfinemesh.png) |
 | Mass(lbs) | 0.14  | 0.14 | 0.14 |
 |Min Factor of Safety| 1.118e+00 | 1.081e+00 | 1.066e+00 |
 |FOS location| ![My Image](link2deflectionfosmesh.png) | ![My Image](link2fosdefmesh.png) | ![My Image](link2fosfinemesh.png) |
@@ -117,7 +117,7 @@ Afterwards, I realized that just makes the deflect in the x direction as well no
 | Max Stress    | 2.423e+08N/m^2 | 1.898e+08N/m^2 | 1.916e+08N/m^2 |
 | Max Stress Location | ![My Image](3stresscoarse.png) | ![My Image](3stressdefmesh.png) | ![My Image](3stressfine.png) |
 | Max Displacement | 3.625e-02mm | 3.662e-02mm | 3.674e-02mm |
-| Max Displacement Location|  |![My Image](3deflectcoarse.png) | ![My Image](3deflecdefmesh.png) | ![My Image](3deflecfine.png) |
+| Max Displacement Location| ![My Image](3deflectcoarse.png) | ![My Image](3deflecdefmesh.png) | ![My Image](3deflecfine.png) |
 | Mass(lbs) | 0.22  | 0.22 | 0.22 |
 |Min Factor of Safety| 1.032e+00 | 1.317e+00 | 1.305e+00 |
 |FOS location| ![My Image](3foscoarse.png) | ![My Image](3fosdefmesh.png) | ![My Image](3fosfine.png) |
