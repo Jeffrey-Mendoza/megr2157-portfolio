@@ -120,7 +120,7 @@ Afterwards, I realized that just makes the deflect in the x direction as well no
 | Max Displacement Location|  |![My Image](3deflectcoarse.png) | ![My Image](3deflecdefmesh.png) | ![My Image](3deflecfine.png) |
 | Mass(lbs) | 0.22  | 0.22 | 0.22 |
 |Min Factor of Safety| 1.032e+00 | 1.317e+00 | 1.305e+00 |
-|FOS location| ![My Image](3foscoarse.png) | ![My Image](3fosdefmesh.png) | ![My Image](3fosfine.png) |
+|FOS location| ![My Image](3deflectcoarse.png) | ![My Image](3fosdefmesh.png) | ![My Image](3fosfine.png) |
 | Number of Elements| 2495 | 9065| 57949 |
 |Convergence Stress| NA | 21.67% | 0.95% |
 |Convergence Deflection| NA | 1.02% | 0.33% |
