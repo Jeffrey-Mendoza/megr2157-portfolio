@@ -28,6 +28,8 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 
 ![My Image](FEAforce.png)
 
+Firstly, the orginal design was tested to see how it performs with the expected load.
+
 | Design 1| Test 1 (Coarse  Mesh) | Test 2 (Default  Mesh) | Test 3 (Fine Mesh)|
 |  :--- | :--- | :--- | :---|
 | Max Stress    | 3.306e+09N/m^2 | 3.619e+09N/m^2 | 4.360e+09N/m^2 |
@@ -42,6 +44,7 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 |Convergence Deflection| NA | --- | --- |
 |Convergence Safety Factor| NA | --- | --- |
 
+For this design I had though some ribs connected to the sides of the clyinder could help the load to distribute up on the bracket.
 
 | Design 2| Test 1 | Test 2 | Test 3|
 |  :--- | :--- | :--- | :---|
@@ -56,6 +59,8 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 |Convergence Stress| NA | --- | --- |
 |Convergence Deflection| NA | --- | --- |
 |Convergence Safety Factor| NA | --- | --- |
+
+For the last design I made an immense number of changes, I made a lot of cutout sections with fillets intending to reduce mass while increasing safety factor. Additionally, I made tapered ribs for load distribution, increased the width of the bracket sides
 
 | Design 3| Test 1 | Test 2 | Test 3|
 |  :--- | :--- | :--- | :---|
@@ -73,6 +78,8 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 
 ##2157 Link
 
+The original link design was tested to see how well it does without any modifications to the design.
+
 | Design 1| Test 1 (Coarse Mesh) | Test 2 (Default Mesh) | Test 3 (Fine Mesh)|
 |  :--- | :--- | :--- | :---|
 | Max Stress    | 2.138e+08N/m^2 | 2.177e+08N/m^2 | 2.182e+08N/m^2 |
@@ -87,6 +94,8 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 |Convergence Deflection| NA | --- | --- |
 |Convergence Safety Factor| NA | --- | --- |
 
+In attempt to reduce stress concentration I added a layer for distribution where the load was located.
+
 | Design 2| Test 1 | Test 2 | Test 3|
 |  :--- | :--- | :--- | :---|
 | Max Stress    | 2.236e+08N/m^2 | 2.312e+08N/m^2 | 2.346e+08N/m^2 |
@@ -100,6 +109,8 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 |Convergence Stress| NA | --- | --- |
 |Convergence Deflection| NA | --- | --- |
 |Convergence Safety Factor| NA | --- | --- |
+
+Afterwards, I realized that just makes the deflect in the x direction as well now. So, I added another layer on the other side with a thicker part in the center to prevent bending. Additionally, I added some oval holes with fillets where there was no stress to remove mass where it isn't needed.
 
 | Design 3| Test 1 | Test 2 | Test 3|
 |  :--- | :--- | :--- | :---|
@@ -117,7 +128,7 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 
 ## Engineering Lesson
 
-Throughout this assignment I discovered and learned how to do static analysis on CAD models that I create to approximate how well it could function in the real world. Additional I learned about the different type of meshes, there are three types: coarse, default, and fine mesh. Finer mesh just breaks the CAD model into smaller geometric shapes, therefore, fine mesh allows for accurate reading especially around complex shapes. Yet more geometric shapes means it'll take the system to proceed the static analysis. Whereas, coarse mesh are bigger geometric shapes so it is less likely to pick up small high stress sections, so less precise. Also, the computer processes coarse mesh quicker compared to fine mesh. Lastely default mesh is simply a mix of both coarse and fine mesh.
+Throughout this assignment I discovered and learned how to do static analysis on CAD models that I create to approximate how well it could function in the real world. Additional I learned about the different type of meshes, there are three types: coarse, default, and fine mesh. Finer mesh just breaks the CAD model into smaller geometric shapes; therefore, fine mesh allows for accurate reading especially around complex shapes. Yet more geometric shapes mean it'll take the system to proceed the static analysis. Whereas coarse mesh are bigger geometric shapes, so it is less likely to pick up small high stress sections, so less precise. Also, the computer processes coarse mesh quicker compared to fine mesh. Lastly default mesh is simply a mix of both coarse and fine mesh. Also, I learned tapered ribs and fillets help reduce stress concentrations; therefore it was added to the design attempting to increase safety factor. Analyzing models is something that is exciting to do, I desire to improve at reducing weigh will maintaining stiffness. 
 
 
 
