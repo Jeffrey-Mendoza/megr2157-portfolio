@@ -41,9 +41,9 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 |Min Factor of Safety| 7.561e-02 | 6.908e-02 | 5.734e-02 |
 |FOS location| ![My Image](originalfoscoarsemesh.png) | ![My Image](originalfosdefmesh.png) | ![My Image](originalfosfinemesh.png) |
 | Number of Elements| 1533 | 8391 | 52197 |
-|Convergence Stress|  | 9.47% | 20.48% |
-|Convergence Deflection| --- | --- | --- |
-|Convergence Safety Factor| --- | --- | --- |
+|Convergence Stress| NA | 9.47% | 20.48% |
+|Convergence Deflection| NA | --- | --- |
+|Convergence Safety Factor| NA | --- | --- |
 
 | Design 2| Test 1 | Test 2 | Test 3|
 |  :--- | :--- | :--- | :---|
@@ -55,23 +55,23 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 |Min Factor of Safety| 1.280e+00 | 9.293e-01 | 3.677e-01 |
 |FOS location| --- | --- | ---|
 | Number of Elements| 1670 | 8361 | 56807 |
-|Convergence Stress| --- | --- | --- |
-|Convergence Deflection| --- | --- | --- |
-|Convergence Safety Factor| --- | --- | --- |
+|Convergence Stress| NA | --- | --- |
+|Convergence Deflection| NA | --- | --- |
+|Convergence Safety Factor| NA | --- | --- |
 
 | Design 3| Test 1 | Test 2 | Test 3|
 |  :--- | :--- | :--- | :---|
-| Max Stress    | --- | ---| ---|
+| Max Stress    | 1.752e+08N/m^2 | 1.797e+08N/m^2 | 1.404e+08N/m^2 |
 | Max Stress Location | --- | ---| ---|
-| Max Displacement | ---| ---| ---|
+| Max Displacement | 3.757e-02mm | 3.780e-02mm | 3.831e-02mm |
 | Max Displacement Location| --- | --- | --- |
-| Mass | ---  | --- | --- |
-|Min Factor of Safety| --- | --- | --- |
+| Mass(lbs) | 1.31  | 1.31 | 1.31 |
+|Min Factor of Safety| 1.427e+00 | 1.391e+00 | 1.780e+00 |
 |FOS location| --- | --- | ---|
-| Number of Elements| --- | --- | --- |
-|Convergence Stress| --- | --- | --- |
-|Convergence Deflection| --- | --- | --- |
-|Convergence Safety Factor| --- | --- | --- |
+| Number of Elements| 8702 | 15537 | 61250 |
+|Convergence Stress| NA | --- | --- |
+|Convergence Deflection| NA | --- | --- |
+|Convergence Safety Factor| NA | --- | --- |
 
 ## Decide
 
