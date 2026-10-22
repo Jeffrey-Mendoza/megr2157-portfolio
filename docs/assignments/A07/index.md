@@ -76,16 +76,16 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 
 ##2157 Link
 
-| Design 1| Test 1 | Test 2 | Test 3|
+| Design 1| Test 1 (Coarse Mesh) | Test 2 (Default Mesh) | Test 3 (Fine Mesh)|
 |  :--- | :--- | :--- | :---|
-| Max Stress    | 1.752e+08N/m^2 | 1.797e+08N/m^2 | 1.404e+08N/m^2 |
+| Max Stress    | 2.138e+08N/m^2 | 2.177e+08N/m^2 | 2.182e+08N/m^2 |
 | Max Stress Location | ![My Image](.png) | ![My Image](.png) | ![My Image](.png) |
-| Max Displacement | 3.757e-02mm | 3.780e-02mm | 3.831e-02mm |
+| Max Displacement | 3.620e-02mm | 3.637e-02mm | 3.639e-02mm |
 | Max Displacement Location|  |![My Image](.png) | ![My Image](.png) | ![My Image](.png) |
-| Mass(lbs) | 1.31  | 1.31 | 1.31 |
-|Min Factor of Safety| 1.427e+00 | 1.391e+00 | 1.780e+00 |
+| Mass(lbs) | 0.02  | 0.02 | 0.02 |
+|Min Factor of Safety| 1.169e+00 | 1.148e+00 | 1.146e+00 |
 |FOS location| ![My Image](.png) | ![My Image](.png) | ![My Image](.png) |
-| Number of Elements| 8702 | 15537 | 61250 |
+| Number of Elements| 1236 | 7179 | 56321 |
 |Convergence Stress| NA | --- | --- |
 |Convergence Deflection| NA | --- | --- |
 |Convergence Safety Factor| NA | --- | --- |
