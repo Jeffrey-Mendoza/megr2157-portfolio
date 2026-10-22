@@ -90,16 +90,16 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 |Convergence Deflection| NA | --- | --- |
 |Convergence Safety Factor| NA | --- | --- |
 
-| Design 1| Test 1 | Test 2 | Test 3|
+| Design 2| Test 1 | Test 2 | Test 3|
 |  :--- | :--- | :--- | :---|
-| Max Stress    | 1.752e+08N/m^2 | 1.797e+08N/m^2 | 1.404e+08N/m^2 |
-| Max Stress Location | ![My Image](.png) | ![My Image](.png) | ![My Image](.png) |
-| Max Displacement | 3.757e-02mm | 3.780e-02mm | 3.831e-02mm |
-| Max Displacement Location|  |![My Image](.png) | ![My Image](.png) | ![My Image](.png) |
-| Mass(lbs) | 1.31  | 1.31 | 1.31 |
-|Min Factor of Safety| 1.427e+00 | 1.391e+00 | 1.780e+00 |
-|FOS location| ![My Image](.png) | ![My Image](.png) | ![My Image](.png) |
-| Number of Elements| 8702 | 15537 | 61250 |
+| Max Stress    | 2.236e+08N/m^2 | 2.312e+08N/m^2 | 2.346e+08N/m^2 |
+| Max Stress Location | ![My Image](link2stresscoarsemesh.png) | ![My Image](link2stressdefmesh.png) | ![My Image](link2stressfinemesh.png) |
+| Max Displacement | 3.827e-02mm | 3.848e-02mm | 3.842e-02mm |
+| Max Displacement Location|  |![My Image](link2deflectioncoarsemesh.png) | ![My Image](link2deflectiondefmesh.png) | ![My Image](link2deflectionfinemesh.png) |
+| Mass(lbs) | 0.02  | 0.02 | 0.02 |
+|Min Factor of Safety| 1.118e+00 | 1.081e+00 | 1.066e+00 |
+|FOS location| ![My Image](link2deflectionfosmesh.png) | ![My Image](link2fosdefmesh.png) | ![My Image](link2fosfinemesh.png) |
+| Number of Elements| 1425 | 7431 | 52900 |
 |Convergence Stress| NA | --- | --- |
 |Convergence Deflection| NA | --- | --- |
 |Convergence Safety Factor| NA | --- | --- |
