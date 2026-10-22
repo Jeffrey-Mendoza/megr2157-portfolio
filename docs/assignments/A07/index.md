@@ -46,10 +46,6 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 |Convergence Safety Factor| NA | --- | --- |
 
 
-
-
-
-
 | Design 2| Test 1 | Test 2 | Test 3|
 |  :--- | :--- | :--- | :---|
 | Max Stress    | 1.953e+08N/m^2 | 2.690e+08N/m^2 | 6.799e+08N/m^2|
@@ -73,6 +69,50 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 | Mass(lbs) | 1.31  | 1.31 | 1.31 |
 |Min Factor of Safety| 1.427e+00 | 1.391e+00 | 1.780e+00 |
 |FOS location| ![My Image](design3foscoarsemesh.png) | ![My Image](design3fosdefmesh.png) | ![My Image](design3fosfinemesh.png) |
+| Number of Elements| 8702 | 15537 | 61250 |
+|Convergence Stress| NA | --- | --- |
+|Convergence Deflection| NA | --- | --- |
+|Convergence Safety Factor| NA | --- | --- |
+
+##2157 Link
+
+| Design 1| Test 1 | Test 2 | Test 3|
+|  :--- | :--- | :--- | :---|
+| Max Stress    | 1.752e+08N/m^2 | 1.797e+08N/m^2 | 1.404e+08N/m^2 |
+| Max Stress Location | ![My Image](.png) | ![My Image](.png) | ![My Image](.png) |
+| Max Displacement | 3.757e-02mm | 3.780e-02mm | 3.831e-02mm |
+| Max Displacement Location|  |![My Image](.png) | ![My Image](.png) | ![My Image](.png) |
+| Mass(lbs) | 1.31  | 1.31 | 1.31 |
+|Min Factor of Safety| 1.427e+00 | 1.391e+00 | 1.780e+00 |
+|FOS location| ![My Image](.png) | ![My Image](.png) | ![My Image](.png) |
+| Number of Elements| 8702 | 15537 | 61250 |
+|Convergence Stress| NA | --- | --- |
+|Convergence Deflection| NA | --- | --- |
+|Convergence Safety Factor| NA | --- | --- |
+
+| Design 1| Test 1 | Test 2 | Test 3|
+|  :--- | :--- | :--- | :---|
+| Max Stress    | 1.752e+08N/m^2 | 1.797e+08N/m^2 | 1.404e+08N/m^2 |
+| Max Stress Location | ![My Image](.png) | ![My Image](.png) | ![My Image](.png) |
+| Max Displacement | 3.757e-02mm | 3.780e-02mm | 3.831e-02mm |
+| Max Displacement Location|  |![My Image](.png) | ![My Image](.png) | ![My Image](.png) |
+| Mass(lbs) | 1.31  | 1.31 | 1.31 |
+|Min Factor of Safety| 1.427e+00 | 1.391e+00 | 1.780e+00 |
+|FOS location| ![My Image](.png) | ![My Image](.png) | ![My Image](.png) |
+| Number of Elements| 8702 | 15537 | 61250 |
+|Convergence Stress| NA | --- | --- |
+|Convergence Deflection| NA | --- | --- |
+|Convergence Safety Factor| NA | --- | --- |
+
+| Design 1| Test 1 | Test 2 | Test 3|
+|  :--- | :--- | :--- | :---|
+| Max Stress    | 1.752e+08N/m^2 | 1.797e+08N/m^2 | 1.404e+08N/m^2 |
+| Max Stress Location | ![My Image](.png) | ![My Image](.png) | ![My Image](.png) |
+| Max Displacement | 3.757e-02mm | 3.780e-02mm | 3.831e-02mm |
+| Max Displacement Location|  |![My Image](.png) | ![My Image](.png) | ![My Image](.png) |
+| Mass(lbs) | 1.31  | 1.31 | 1.31 |
+|Min Factor of Safety| 1.427e+00 | 1.391e+00 | 1.780e+00 |
+|FOS location| ![My Image](.png) | ![My Image](.png) | ![My Image](.png) |
 | Number of Elements| 8702 | 15537 | 61250 |
 |Convergence Stress| NA | --- | --- |
 |Convergence Deflection| NA | --- | --- |
