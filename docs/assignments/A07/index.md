@@ -115,8 +115,9 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 |Convergence Deflection| NA | --- | --- |
 |Convergence Safety Factor| NA | --- | --- |
 
-## Decide
+## Engineering Lesson
+
+Throughout this assignment I discovered and learned how to do static analysis on CAD models that I create to approximate how well it could function in the real world. Additional I learned about the different type of meshes, there are three types: coarse, default, and fine mesh. Finer mesh just breaks the CAD model into smaller geometric shapes, therefore, fine mesh allows for accurate reading especially around complex shapes. Yet more geometric shapes means it'll take the system to proceed the static analysis. Whereas, coarse mesh are bigger geometric shapes so it is less likely to pick up small high stress sections, so less precise. Also, the computer processes coarse mesh quicker compared to fine mesh. Lastely default mesh is simply a mix of both coarse and fine mesh.
 
 
-## Communicate
 
