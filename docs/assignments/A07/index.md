@@ -64,25 +64,15 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 |Convergence Deflection| NA | --- | --- |
 |Convergence Safety Factor| NA | --- | --- |
 
-design3foscoarsemesh.png
-design3deflectioncoarsemesh.png
-design3stresscoarsemesh.png
-design3fosdefmesh.png
-design3deflectiondefmesh.png
-design3stressdefmesh.png
-design3fosfinemesh.png
-design3deflectionfinemesh.png
-design3stressfinemesh.png
-
 | Design 3| Test 1 | Test 2 | Test 3|
 |  :--- | :--- | :--- | :---|
 | Max Stress    | 1.752e+08N/m^2 | 1.797e+08N/m^2 | 1.404e+08N/m^2 |
-| Max Stress Location | --- | ---| ---|
+| Max Stress Location | ![My Image](design3stresscoarsemesh.png) | ![My Image](design3stressdefmesh.png) | ![My Image](design3stressfinemesh.png) |
 | Max Displacement | 3.757e-02mm | 3.780e-02mm | 3.831e-02mm |
-| Max Displacement Location| --- | --- | --- |
+| Max Displacement Location|  |![My Image](design3deflectioncoarsemesh.png) | ![My Image](design3deflectiondefmesh.png) | ![My Image](design3deflectionfinemesh.png) |
 | Mass(lbs) | 1.31  | 1.31 | 1.31 |
 |Min Factor of Safety| 1.427e+00 | 1.391e+00 | 1.780e+00 |
-|FOS location| --- | --- | ---|
+|FOS location| ![My Image](design3foscoarsemesh.png) | ![My Image](design3fosdefmesh.png) | ![My Image](design3fosfinemesh.png) |
 | Number of Elements| 8702 | 15537 | 61250 |
 |Convergence Stress| NA | --- | --- |
 |Convergence Deflection| NA | --- | --- |
