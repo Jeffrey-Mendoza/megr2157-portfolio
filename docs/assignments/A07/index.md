@@ -24,11 +24,8 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 
 ![My Image](bracketdesign.png) 
 
-## Analyze
+## Bracket FEA
 
-
-![My Image](FEAforce.png)
-![My Image](defmesh.png)
 ![My Image](FEAforce.png)
 
 | Design 1| Test 1 (Coarse  Mesh) | Test 2 (Default  Mesh) | Test 3 (Fine Mesh)|
