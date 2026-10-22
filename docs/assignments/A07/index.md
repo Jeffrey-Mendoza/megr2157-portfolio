@@ -79,12 +79,12 @@ Task is simply to create a high stiff, high strength, and lightweight component.
 | Design 1| Test 1 (Coarse Mesh) | Test 2 (Default Mesh) | Test 3 (Fine Mesh)|
 |  :--- | :--- | :--- | :---|
 | Max Stress    | 2.138e+08N/m^2 | 2.177e+08N/m^2 | 2.182e+08N/m^2 |
-| Max Stress Location | ![My Image](.png) | ![My Image](.png) | ![My Image](.png) |
+| Max Stress Location | ![My Image](link1stresscoarsemesh.png) | ![My Image](link1stressdefmesh.png) | ![My Image](link1stressfinemesh.png) |
 | Max Displacement | 3.620e-02mm | 3.637e-02mm | 3.639e-02mm |
-| Max Displacement Location|  |![My Image](.png) | ![My Image](.png) | ![My Image](.png) |
+| Max Displacement Location|  |![My Image](link1deflectioncoarsemesh.png) | ![My Image](link1deflectiondefmesh.png) | ![My Image](link1deflectionfinemesh.png) |
 | Mass(lbs) | 0.02  | 0.02 | 0.02 |
 |Min Factor of Safety| 1.169e+00 | 1.148e+00 | 1.146e+00 |
-|FOS location| ![My Image](.png) | ![My Image](.png) | ![My Image](.png) |
+|FOS location| ![My Image](linkfoscoarsemesh.png) | ![My Image](link1fosdefmesh.png) | ![My Image](link1fosfinemesh.png) |
 | Number of Elements| 1236 | 7179 | 56321 |
 |Convergence Stress| NA | --- | --- |
 |Convergence Deflection| NA | --- | --- |
