@@ -18,6 +18,15 @@ Use a running sliding fit for the size of the hole for the shafts.
 
 ## Analyze
 
+sectionview.png
+gearwitbottomhousing.png
+tophousing.png
+screws.png
+basehousing.png
+bottomhousing.png
+parametricgear.png
+1-4thjournalbearing.png
+1-8thjournalbearing.png
 
 ## Decide
 
