@@ -18,15 +18,24 @@ Use a running sliding fit for the size of the hole for the shafts.
 
 ## Analyze
 
-sectionview.png
-gearwitbottomhousing.png
-tophousing.png
-screws.png
-basehousing.png
-bottomhousing.png
-parametricgear.png
-1-4thjournalbearing.png
-1-8thjournalbearing.png
+![My Image](sectionview.png) 
+![My Image](sectionview.png)
+![My Image](gearwitbottomhousing.png)
+![My Image](tophousing.png)
+![My Image](screws.png)
+![My Image](basehousing.png)
+![My Image](bottomhousing.png)
+![My Image](parametricgear.png)
+![My Image](1-4thjournalbearing.png)
+![My Image](1-8thjournalbearing.png)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 ## Decide
 
