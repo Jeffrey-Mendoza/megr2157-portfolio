@@ -100,7 +100,7 @@ From this assignment I gained additional knowledge on gears and how they are hou
 
 ## CAD Download
 
-[Download](C:\Users\jonat\Downloads\A8)
+[Download SolidWorks Files (Zip Version)](./A8.zip)
 
 
 
