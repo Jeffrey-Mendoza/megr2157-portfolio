@@ -61,6 +61,33 @@ https://www.mcmaster.com/6389K2/
 
 ![My Image](sectionview.png)
 
+![My Image](assembly.png)
+
+## 2157 Multiview Drawing
+
+![My Image](1of4shaftdrawing.png)
+
+![My Image](1of8shaftdrawing.png)
+
+![My Image](1of4journalbearingdrawing.png)
+
+![My Image](1of8journalbearingdrawing.png)
+
+![My Image](bottomhousingdrawing.png)
+
+![My Image](tophousingdrawing.png)
+
+![My Image](gearhousingdrawing.png)
+
+
+
+
+
+
+ 
+
+
+
 
  
  
