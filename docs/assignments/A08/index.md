@@ -80,7 +80,7 @@ Unfortunately I couldn't add screws and nuts ( which I had intially thought abou
 
 ## Engineering Lesson
 
-From this assignment I gained additional knowledge on gears and how they are housed. I learned how to know which journal bearing material to choose depending on the pressure, velocity, and the PV constant of the gear assembly.
+From this assignment I gained additional knowledge on gears and how they are housed. I learned how to know which journal bearing material to choose depending on the pressure, velocity, and the PV constant of the gear assembly. I also learned about the extraordinary website of McMaster which has a large quantity of information about materials Not just information but gives us the ability to download CAD files for us to use. I feel like this assignment is improving my designing skills and knowledge, like create the optimal parameters for a design for safety and cost, considering all sorts of forces that act upon an object. It is also helping me visual where tight tolerance is required and where it isn't to minimize cost.
 
 ## 2157 Multiview Drawing
 
