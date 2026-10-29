@@ -16,36 +16,45 @@ Make sure there is enough clearance between the gears and the gearbox.
 Use a running sliding fit for the size of the hole for the shafts.
 
 
-## Input Shaft 
+## Input & Output Shaft Calculation
+
 ![My Image](calculations11.png)
-![My Image](PVvalues1.png)
-![My Image](journalbearing1.png)
+
 ![My Image](shaftsufficient1.png)
-![My Image](sketchgear1.png)
-
-
-## Output Shaft
 
 ## Journal Bearings
 
+![My Image](journalbearing1.png)
+
 ## Journal Bearing Material Selection
 
-## Journal Bearing Thickness
+![My Image](PVvalues1.png)
+
+![My Image](1-4thjournalbearing.png)
+
+![My Image](1-8thjournalbearing.png)
 
 ## Housing Sketch
 
+![My Image](sketchgear1.png)
+
 ## CAD Model
 
+![My Image](parametricgear.png)
+
+![My Image](basehousing.png)
+
+![My Image](bottomhousing.png)
+
+![My Image](gearwitbottomhousing.png)
+
+![My Image](tophousing.png)
+
+![My Image](screws.png)
 
 ![My Image](sectionview.png)
-![My Image](gearwitbottomhousing.png)
-![My Image](tophousing.png)
-![My Image](screws.png)
-![My Image](basehousing.png)
-![My Image](bottomhousing.png)
-![My Image](parametricgear.png)
-![My Image](1-4thjournalbearing.png)
-![My Image](1-8thjournalbearing.png)
+
+
  
  
  
