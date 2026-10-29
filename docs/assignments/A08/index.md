@@ -97,3 +97,6 @@ From this assignment I gained additional knowledge on gears and how they are hou
 
 ## CAD Download
 
+[Download Bracket]()
+
+
