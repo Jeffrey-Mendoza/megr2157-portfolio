@@ -33,6 +33,8 @@ Next to be able to select a journal bearing material I had to calculate the forc
 
 ## Journal Bearing Material Selection
 
+By comparing all the max values of pressure and velocity, along with the PV constant, to the material chart I decided to go with nylon. I chose nylon because it would be able to handle the velocity and pressure of the gear assembly. Additionally, it's the cheapest material of the list, making it less expensive to produce. Also, I wanted to consider in safety factor and a PV constant of 3000 for nylon is slightly above a x1.5 safety factor which I was satisfied with.
+
 ![My Image](PVvalues1.png)
 
 ![My Image](1-4thjournalbearing.png)
@@ -42,6 +44,8 @@ Next to be able to select a journal bearing material I had to calculate the forc
 https://www.mcmaster.com/6389K2/
 
 ## Housing Sketch
+
+After researching some different gearbox housing designs, I decided to just create a simple box housing for the gear assembly.
 
 ![My Image](sketchgear1.png)
 
@@ -57,11 +61,23 @@ https://www.mcmaster.com/6389K2/
 
 ![My Image](tophousing.png)
 
+To create the top housing all I did was mirror the bottom housing to create an identical housing for the top portion.
+
 ![My Image](screws.png)
+
+This image demonstrates the locations of where the tapped holes went. This image was where the screws would go but were too large, but I fixed it before adding the tapped holes into the assembly.
 
 ![My Image](sectionview.png)
 
+From this view it is visible that the gears have enough room so they can move freely.
+
 ![My Image](assembly.png)
+
+Unfortunately I couldn't add screws and nuts ( which I had intially thought about) because I dont have access to that on my solidworks, and from mcmaster I couldn't download any screw.
+
+## Engineering Lesson
+
+From this assignment I gained additional knowledge on gears and how they are housed. I learned how to know which journal bearing material to choose depending on the pressure, velocity, and the PV constant of the gear assembly.
 
 ## 2157 Multiview Drawing
 
@@ -79,27 +95,5 @@ https://www.mcmaster.com/6389K2/
 
 ![My Image](gearhousingdrawing.png)
 
-
-
-
-
-
- 
-
-
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-## Decide
-
-
-## Communicate
+## CAD Download
 
