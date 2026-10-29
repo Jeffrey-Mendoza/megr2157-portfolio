@@ -17,11 +17,11 @@ Use a running sliding fit for the size of the hole for the shafts.
 
 
 ## Input Shaft 
-![My Image](calculations1.pn)
-![My Image](PVvalues.pn)
-![My Image](journalbearing.pn)
-![My Image](shaftsufficient.pn)
-![My Image](sketchgear.pn)
+![My Image](calculations1.png)
+![My Image](PVvalues.png)
+![My Image](journalbearing.png)
+![My Image](shaftsufficient.png)
+![My Image](sketchgear.png)
 
 
 ## Output Shaft
