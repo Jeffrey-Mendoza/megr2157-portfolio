@@ -17,10 +17,13 @@ Use a running sliding fit for the size of the hole for the shafts.
 
 
 ## Input & Output Shaft Calculation
+ First of all, I had to run calculations to make sure the given shaft diameters were sufficient enough to undergo the shear stresses that would be present with the gears.
 
 ![My Image](calculations11.png)
 
 ![My Image](shaftsufficient1.png)
+
+After calculations it was determined that both shaft diameters were indeed sufficient and wouldn't fail under the shear stresses that would be present.
 
 ## Journal Bearings
 
