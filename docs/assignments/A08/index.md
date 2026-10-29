@@ -39,9 +39,12 @@ By comparing all the max values of pressure and velocity, along with the PV cons
 
 ![My Image](1-4thjournalbearing.png)
 
+[Link](https://www.mcmaster.com/6389K351/)
+
 ![My Image](1-8thjournalbearing.png)
 
-https://www.mcmaster.com/6389K2/
+[Link](https://www.mcmaster.com/6389K2/)
+
 
 ## Housing Sketch
 
