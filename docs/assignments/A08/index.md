@@ -39,6 +39,8 @@ Next to be able to select a journal bearing material I had to calculate the forc
 
 ![My Image](1-8thjournalbearing.png)
 
+https://www.mcmaster.com/6389K2/
+
 ## Housing Sketch
 
 ![My Image](sketchgear1.png)
