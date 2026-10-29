@@ -27,6 +27,8 @@ After calculations it was determined that both shaft diameters were indeed suffi
 
 ## Journal Bearings
 
+Next to be able to select a journal bearing material I had to calculate the force, radial force, velocity, pressure, and PV constant using the max velocity and pressure values.
+
 ![My Image](journalbearing1.png)
 
 ## Journal Bearing Material Selection
