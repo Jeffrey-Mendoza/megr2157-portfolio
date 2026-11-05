@@ -44,9 +44,16 @@ Similar to last's week assignment to design the journal bearing the pressure, ve
 
 Using engineering analysis to design the pulley system frame the bending moment stress and the axial stress formulas were used. Since the pulleys are 3in in diameter and 6in apart from each center I decided to make the base 4in and the length 10in giving 0.5in wiggle room in both the base and length. The free body diagram helped me visual how the forces act. Adding both the bending and axial stress gives the total stress, which is 155.68psi in this case. Therefore, I selected aluminum as the material due to lightweight, low cost, moderate strength, and wear resistance. It is a better option compared to the other lightweight material delrin.
 
-[Link](https://www.brecoflex.com/timing-belts-101/pulley-materials-and-finishes)
+[Material Info](https://www.brecoflex.com/timing-belts-101/pulley-materials-and-finishes)
 
 ![My Image](pulleyframe.png)
 
 ## Engineering Lesson
+
+From this assignment I learned about the important of friction within a pulley system and how to analyze the forces acting on a pulley system. Also, this assignment helps me visualize how different combine in the real world to create parts (solid mechanics, machining, and statics). Therefore, I learned about the components in a pulley system and how select suitable parameters and materials.
+
+
+[Belt](https://www.mcmaster.com/6180K14/)
+[Shaft](https://www.mcmaster.com/1327K93/)
+[Journal Bearing](https://www.mcmaster.com/6391K611/)
 
