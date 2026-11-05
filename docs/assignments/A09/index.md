@@ -14,28 +14,28 @@ Assume the belt is made from polyurethane rubber, with a yield strength of 3.25 
 
 <img width="295" height="100" alt="image" src="https://github.com/user-attachments/assets/68641c16-7565-4bf6-ae94-a8b72ca27974" />
 
-![My Image](journalbearingbronze.png) 
-![My Image](beltselection.png)
-![My Image](shaftselection.png)
-![My Image](shaftpulley.png)
+## Belt Design
+
 ![My Image](F1F2calc.png)
-![My Image](journalbearingpulley.png)
+
 ![My Image](diameterbelt.png)
+
+![My Image](beltselection.png)
+
+## Shaft Design
+
+![My Image](shaftpulley.png)
+
+![My Image](shaftselection.png)
+
+## Journal Bearing Design
+
+![My Image](journalbearingpulley.png)
+
+![My Image](journalbearingbronze.png) 
+
+## Frame Design
 ![My Image](pulleyframe.png)
 
- 
- 
- 
- 
- 
- 
- 
-
-## Analyze
-
-
-## Decide
-
-
-## Communicate
+ ## Engineering Lesson
 
