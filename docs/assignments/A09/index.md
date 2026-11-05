@@ -54,6 +54,8 @@ From this assignment I learned about the important of friction within a pulley s
 
 
 [Belt](https://www.mcmaster.com/6180K14/)
+
 [Shaft](https://www.mcmaster.com/1327K93/)
+
 [Journal Bearing](https://www.mcmaster.com/6391K611/)
 
