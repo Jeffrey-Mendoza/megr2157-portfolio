@@ -34,6 +34,8 @@ To find the diameter of the shaft by first calculating the power transmitted by 
 
 ## Journal Bearing Design
 
+Similar to last's week assignment to design the journal bearing the pressure, velocity, and PV constant had to be determined to select an appropriate material. After determining a PV constant of 32986.72 the decision was to select Porous Bronze material, since it has a greater P, V, and PV value than what was calculated. Additionally, I added a RC2 sliding fit to the journal bearing meaning the inner diameter is 0.0003in greater than the diameter of the shaft, 0.1253in. Solving for the outer diameter using the thickness (0.094in) and inner diameter the calculations come out to 0.3128in for the journal bearing.
+
 ![My Image](journalbearingpulley.png)
 
 ![My Image](journalbearingbronze.png) 
