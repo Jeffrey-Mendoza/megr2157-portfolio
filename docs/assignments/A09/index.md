@@ -50,7 +50,7 @@ Using engineering analysis to design the pulley system frame the bending moment 
 
 ## Engineering Lesson
 
-From this assignment I learned about the important of friction within a pulley system and how to analyze the forces acting on a pulley system. Also, this assignment helps me visualize how different combine in the real world to create parts (solid mechanics, machining, and statics). Therefore, I learned about the components in a pulley system and how select suitable parameters and materials.
+From this assignment I learned about the important of friction within a pulley system and how to analyze the forces acting on a pulley system. Also, this assignment helps me visualize how different combine in the real world to create parts (solid mechanics, machining, and statics). Therefore, I learned about the components in a pulley system and how select suitable parameters and materials. This assignment took me approximately 7 hours.
 
 
 [Belt](https://www.mcmaster.com/6180K14/)
