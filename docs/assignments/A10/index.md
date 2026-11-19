@@ -41,6 +41,8 @@ Since we had freedom to design our crosshead, I gave reasonable length and heigh
 
 After multiplying the calculated modulus of elasticity and bending stress for the crosshead it was decided that the material for the crosshead would be 6061-T6 Aluminum. Both the yield strength and the modulus of elasticity of the material is several times higher to what was calculated for the crosshead.
 
+![My Image](a10.png)
+
 ### Tabulating Costs- Jeffrey 
 
 | Item Number | Quantity | Name | Cost/Item | Total Cost | Purchase Link |
